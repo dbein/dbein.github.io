@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+{% if page.top_image %}
+  <div style="width:105%; max-height:500px; overflow:hidden;">
+    <img width="100%" src="{{ page.top_image }}"/>
+  </div>
+{% endif %}
+<section>
+  <div class="container" style="width:100%; max-width:1300px; padding:40px 30px 20px 30px;">
+    <header class="major">
+      <h2 style="font-size:3em;">{{ page.title }}</h2>
+      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    </header>
+
+    <section class="post-content">
+      {% if page.navigation_headers %}
+        <div id='cssmenu'>
+          <ul>
+            {% for item in page.navigation_headers %}
+              {% assign parts = item | split:"::" %}
+              <li>
+                {% if parts.size == 1 %} 
+                  <a href='#{{ parts[0] | downcase | replace: ' ', '-' }}'>
+                  {% else %}
+                    <a href='#{{ parts[1] }}'>
+                    {% endif %}
+                    {{ parts[0] }}
+                    </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+
+      {% if page.feature_image %}
+        <img src="{{ site.baseurl }}{{ page.feature_image }}">
+      {% endif %}
+      {{ content }}
+    </section>
+
+    <footer style="margin-top:30px;">
+      {% if page.previous %}
+        <a href="{{ site.baseurl }}{{ page.previous.url }}" class="float-left" style="border:none">&larr; Older Post</a> 
+      {% endif %}
+      {% if page.next %}
+        <a href="{{ site.baseurl }}{{ page.next.url }}" class="float-right"  style="border:none">Newer Post &rarr;</a> 
+      {% endif %}
+    </footer>
+
+  </div>
+
+</section>
