@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{% if page.top_image %}
+<img width="100%" src="{{ page.top_image }}"/>
+{% endif %}
+<section>
+    <div class="container">
+        <header class="major">
+            <h2>{{ page.title }}</h2>
+        </header>
+
+        <section>
+            {{ content }}
+        </section>
+
+    </div>
+
+</section>

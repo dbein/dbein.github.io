@@ -1,0 +1,45 @@
+
+<head>
+    <title>Doina Bein's Website</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+    <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/js/jquery.scrollzer.min.js"></script>
+    <script src="{{ site.baseurl }}/js/jquery.scrolly.min.js"></script>
+    <script src="{{ site.baseurl }}/js/skel.min.js"></script>
+    <script src="{{ site.baseurl }}/js/skel-layers.min.js"></script>
+    <script src="{{ site.baseurl }}/js/init.js"></script>
+    <noscript>
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/skel.css" />
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" />
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/style-xlarge.css" />
+    </noscript>
+    <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/cssmenu.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css" />
+
+    {{ page.include_for_calendar_page_only  }}
+    {% if page.layout == 'calendar' %}
+    <link rel="stylesheet" href="/css/bootstrap.grid.btn.css">
+    <link rel="stylesheet" href="/components/bootstrap-calendar/css/calendar.css">
+    <script type="text/javascript" src="/components/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="/components/lodash/lodash.min.js"></script>
+    <script type="text/javascript" src="/components/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/components/bootstrap-calendar/js/calendar.js"></script>
+    <script type="text/javascript" src="/components/moment/min/moment.min.js"></script>
+    <script type="text/javascript" src="/components/papaparse/papaparse.min.js"></script>
+
+    {% endif %}
+
+    {{ page.include_for_gallery_page_only  }}
+    {% if page.layout == 'gallery' %}
+    <script type='text/javascript' src='/components/unitegallery/js/jquery-11.0.min.js'></script>	
+    <script type='text/javascript' src='/components/unitegallery/js/unitegallery.min.js'></script>	
+    <script type='text/javascript' src='/components/unitegallery/themes/tiles/ug-theme-tiles.js'></script>
+    <link rel='stylesheet' href='/components/unitegallery/css/unite-gallery.css' type='text/css' />
+    {% endif %}
+
+</head>
+
