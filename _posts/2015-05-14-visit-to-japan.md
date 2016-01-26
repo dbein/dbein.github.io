@@ -53,7 +53,7 @@ images:
     - Kyoto_post_office.jpg::Going to a post office in Kyoto
     - Heian_Jingu1.jpg::Heian Jingu temple in Kyoto
     - Heian_Jingu2.jpg::Donations for Heian Jingu temple
-    - Kyoto_tower.jpg::Kyoto Tower sits atop the main train station in Kyoto
+    - Kyoto_tower.JPG::Kyoto Tower sits atop the main train station in Kyoto
     - NewYear1.jpg::Celebrating New Year in Kyoto (Winter 2004-2005)
     - festival5.jpg::Traditional festival on January 1
     - festival6.jpg::Traditional festival on January 1
