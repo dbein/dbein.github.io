@@ -1,7 +1,14 @@
 ---
-layout: page
-title: Contact me
+layout: post
+title: Contact Information
 ---
+
+
+    CS-542, Computer Science Building 
+    California State University, Fullerton 
+    800 N. State College Blvd. 
+    Fullerton, CA 92834 
+    Office Phone: (657) 278-4822
 
 To send me an email, please use the form below.
 
