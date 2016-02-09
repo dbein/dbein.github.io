@@ -8,7 +8,7 @@ navigation_headers:
   - Conferences::refereed-conferenceworkshop-papers
   - Grant::grant
 ---
-
+    
 ## Research Interests
 
 Dr. Bein's research interests include: 
@@ -29,6 +29,10 @@ Dr. Bein's research interests include:
 * Supervised Machine Learning
 * Urban Sensor Networks
 * Wireless Sensor Networks
+
+***
+
+    "In theory, theory and practice are the same. In practice, they are not." (Anonymous)
 
 ***
 
