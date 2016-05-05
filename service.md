@@ -5,6 +5,9 @@ title: Service
 
 ## Service to Community
 
+#### General co-chair
+* [__ITNG 2017__](http://www.itng.info/): 14th International Conference on Information Technology : New Generations, to be held April 3-5, 2017, Las Vegas, Nevada, USA
+
 #### Associate/Academic Editor
 
 * British Journal of Mathematics and Computer Science (December 2012 - present), Academic Editor
@@ -14,12 +17,13 @@ title: Service
 
 #### Publicity Chair/co-Chair
 
-* ICDCN 2015: 16th International Conference on Distributed Computing and Networking held in Goa, India during January 4-7, 2015 (Publicity co-chair)
-* 5 more conferences and workshops between 2008-2013 (publicity chair or co-chair)
+* [__ICDCN 2017__](http://www.icdcn.org/): 18th International Conference on Distributed Computing and Networking to be held in Hyderabad, India, from January 4-7, 2017 (Publicity co-chair) 
+* 6 more conferences and workshops between 2008-2015 (publicity chair or publicity co-chair)
 
 #### Technical Program Committee (TPC) Member
 
-* IDC 2015: 9th International Symposium on Intelligent Distributed Computing, October 7- 9, 2015, in Guimaraes, Portugal
+* [__IDC 2016__](http://idc2016.lip6.fr/): 10th International Symposium on Intelligent Distributed Computing, October 10-12, 2016, in Paris, France
+* IDC 2015: 9th International Symposium on Intelligent Distributed Computing, October 7-9, 2015, in Guimaraes, Portugal
 * 38 more conferences and workshops between 2007-2014
 
 #### Conference/Journal/Workshop Peer Reviewer
