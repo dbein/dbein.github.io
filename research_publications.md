@@ -6,7 +6,7 @@ navigation_headers:
   - Publications::publications
   - Journals::journal-publications
   - Conferences::refereed-conferenceworkshop-papers
-  - Grant::grant
+  - Grants::grants
 ---
     
 ## Research Interests
@@ -56,7 +56,8 @@ Dr. Bein's research interests include:
 
 #### Journal Publications
 
-1. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, accepted December 1, 2015, published online February 23, 2016
+1. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, online as of February 23, 2016
+http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 2. Y. Wen, D. Bein, S. Phoha, "Dynamic Clustering of Multi-modal Sensor Networks in Urban Scenarios", Information Fusion (2014) 15:130-140
 3. S. Phoha, G. Mallapragada, Y. Wen, D. Bein, and A. Ray, "Designing a Fusion-Driven Sensor Network to Selectively Track Mobile Targets," Parallel Processing Letters (2012) 22(1), 15 pages
 4. D. Bein, H. Kakugawa, and T. Masuzawa, "Self-stabilising protocols on oriented chains with joins and leaves", International Journal of Autonomous and Adaptive Communications Systems (IJAACS) (2012) 5(2):178-199
@@ -81,9 +82,10 @@ Dr. Bein's research interests include:
 
 #### Refereed Conference/Workshop Papers
 
-1. W. Bein, B. Madan, D. Bein and D. Nyknahad, "Algorithmic Approaches for a Dependable Smart Grid", (ITNG 2016), accepted December 11, 2015, published
-by Springer, Advances in Intelligent Systems and Computing, 448(2016):677-687
-2. M. S. Nistor, D. Bein, W. Bein, M. Dehmer, and S. Pickl, "Time-Based Estimation of Vulnerable Points in the Munich Subway Network", Post-conference proceedings of the International Conference on Operations Research (OR 2015), accepted November 2, 2015
+1. D. Bein and B. Madan, “Reducing the Data Communication Delay in Wireless Sensor Networks”, Proceedings of 2016 IEEE 12th International Conference on Intelligent Computer Communication and Processing, pages 361-368, Sept 8 - 10, 2016, Cluj-Napoca, Romania
+2. B. Madan and D. Bein, “Optimal Maximum Likelihood Estimates of Data Fusion in a Distributed Network of Sensors”, Proceedings of 2016 IEEE 12th International Conference on Intelligent Computer Communication and Processing, pages 369-375, Sept 8 - 10, 2016, Cluj-Napoca, Romania
+1. W. Bein, B. Madan, D. Bein and D. Nyknahad, "Algorithmic Approaches for a Dependable Smart Grid", ”, Proceedings of 13th International Conference on Information Technology : New Generations (ITNG 2016), Springer, Advances in Intelligent Systems and Computing, 448(2016):677-687, online as of March 29, 2016 http://link.springer.com/chapter/10.1007/978-3-319-32467-8_59
+2. M. S. Nistor, D. Bein, W. Bein, M. Dehmer, and S. Pickl, "Time-Based Estimation of Vulnerable Points in the Munich Subway Network", Post-conference proceedings of the International Conference on Operations Research (OR 2015), accepted on March 14, 2016, to be published by Springer-Verlag
 3. B. B. Madan, D. Bein, "MOE Quantification of Missions Using Sensor Data Driven Graph Similarity Measures", 47th Annual Simulation Symposium (ANSS), Spring Simulation Multi-conference 2015, April 12-15, 2015, Alexandria, VA
 4. D. Bein, W. Bein, A. Karki, B.B. Madan, "Optimizing Border Patrol Operations Using Unmanned Aerial Vehicles", International Conference on Information Technology - New Generations (ITNG 2015), 13-15 April 2015, 
 5. D. Bein, B.B. Madan, S. Phoha, S. Rajtmajer, and A. Rish, "Dynamic Data-driven Sensor Network Adaptation for Border Control", SPIE Defense Security and Sensing, April 29-May 3, 2013, vol. 8711
@@ -136,6 +138,8 @@ by Springer, Advances in Intelligent Systems and Computing, 448(2016):677-687
 
 ***
 
-#### Grant
+#### Grants
+
+(Cal State Fullerton) PI for the grant “Environmental-aware Situation Assessment of Cognitive Autonomous Systems” (2016-2017), PC: Katie A. H. Wisecarver, Air Force Office of Scientific Research, total amount $85,326
 
 (Penn State) co-PI for the grant "Dynamic Data Driven Machine Perception and Learning for Border Control" (2012-2017), PM: Dr. F. Darema, Air Force Office of Scientific Research, total amount $1,068,215
