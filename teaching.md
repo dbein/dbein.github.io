@@ -11,7 +11,7 @@ navigation_headers:
 
 #### CPSC 335.001: Algorithms Engineering (Graduate/Undergraduate)
 Monday-Wednesday 2.30-3.45 PM room EC-109
-[__Syllabus__](https://goo.gl/B4fbu5) | 
+[__Syllabus__](https://goo.gl/kjYTbu) | 
 <a href="{{ site.baseurl }}/calendar/cpsc335-001" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
 #### CPSC 335.002: Algorithms Engineering (Graduate/Undergraduate)
@@ -19,9 +19,9 @@ Monday-Wednesday 4.00-5.15 PM room EC-109
 [__Syllabus__](https://goo.gl/kjYTbu) |
 <a href="{{ site.baseurl }}/calendar/cpsc335-002" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
-#### CPSC 335.003: Algorithms Engineering (Graduate/Undergraduate)
+#### CPSC 474.001: Parallel and Distributed Computing (Graduate/Undergraduate)
 Monday-Wednesday 10.00-11.15 AM room CS-101
-[__Syllabus__](https://goo.gl/kjYTbu)) |
+[__Syllabus__](https://goo.gl/B4fbu5) |
 <a href="{{ site.baseurl }}/calendar/cpsc474-001" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
 ***
