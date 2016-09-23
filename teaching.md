@@ -10,17 +10,17 @@ navigation_headers:
 ## Fall 2016
 
 #### CPSC 335.001: Algorithms Engineering (Graduate/Undergraduate)
-Monday-Wednesday 1.00-2.15 PM room E-202
+Monday-Wednesday 2.30-3.45 PM room EC-109
 [__Syllabus__](https://goo.gl/B4fbu5) | 
 <a href="{{ site.baseurl }}/calendar/cpsc335-001" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
 #### CPSC 335.002: Algorithms Engineering (Graduate/Undergraduate)
-Tuesday-Thursday 7.00-8.15 PM room CS-110B
+Monday-Wednesday 4.00-5.15 PM room EC-109
 [__Syllabus__](https://goo.gl/kjYTbu) |
 <a href="{{ site.baseurl }}/calendar/cpsc335-002" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
 #### CPSC 335.003: Algorithms Engineering (Graduate/Undergraduate)
-Tuesday-Thursday 4.00-5.15 PM room CS-110B
+Monday-Wednesday 10.00-11.15 AM room CS-101
 [__Syllabus__](https://goo.gl/kjYTbu)) |
 <a href="{{ site.baseurl }}/calendar/cpsc474-001" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
