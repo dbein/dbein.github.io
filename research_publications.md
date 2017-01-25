@@ -40,7 +40,8 @@ Dr. Bein's research interests include:
 
 #### Best Paper Award
 
-41st Hawaii International Conference in System Sciences (HICSS 2008), Software Technology track 
+* 7th IEEE Annual Computing and Communication Workshop and Conference (IEEE CCWC 2017), Best Paper Award, Distributed System track, co-authored with N. Nguyen
+* 41st Hawaii International Conference in System Sciences (HICSS 2008), Software Technology track 
 
 ***
 
@@ -82,7 +83,10 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 
 #### Refereed Conference/Workshop Papers
 
-1. D. Bein and B. Madan, “Reducing the Data Communication Delay in Wireless Sensor Networks”, Proceedings of 2016 IEEE 12th International Conference on Intelligent Computer Communication and Processing, pages 361-368, Sept 8 - 10, 2016, Cluj-Napoca, Romania
+1. N. Nguyen, and D. Bein, “Distributed MPI Cluster with Docker Swarm Mode”, Proceedings of 7th IEEE Annual Computing and Communication Workshop and Conference (IEEE CCWC 2017), pages 447-453, 2017.
+2. S. Ricardo, D. Bein and A. Panangadan, “Low-Cost, Real-Time Obstacle Avoidance for Mobile Robots”, ”, Proceedings of 7th IEEE Annual Computing and Communication Workshop and Conference (IEEE CCWC 2017), pages 788-794, 2017.
+55. B. Madan, M. Banik, B.C Wu, and D. Bein, “Intrusion Tolerant Multi-Cloud Distributed Storage “, Proceedings of IEEE SmartCloud 2016, November 18-20, 2016, New York City.
+3. D. Bein and B. Madan, “Reducing the Data Communication Delay in Wireless Sensor Networks”, Proceedings of 2016 IEEE 12th International Conference on Intelligent Computer Communication and Processing, pages 361-368, Sept 8 - 10, 2016, Cluj-Napoca, Romania
 2. B. Madan and D. Bein, “Optimal Maximum Likelihood Estimates of Data Fusion in a Distributed Network of Sensors”, Proceedings of 2016 IEEE 12th International Conference on Intelligent Computer Communication and Processing, pages 369-375, Sept 8 - 10, 2016, Cluj-Napoca, Romania
 1. W. Bein, B. Madan, D. Bein and D. Nyknahad, "Algorithmic Approaches for a Dependable Smart Grid", ”, Proceedings of 13th International Conference on Information Technology : New Generations (ITNG 2016), Springer, Advances in Intelligent Systems and Computing, 448(2016):677-687, online as of March 29, 2016 http://link.springer.com/chapter/10.1007/978-3-319-32467-8_59
 2. M. S. Nistor, D. Bein, W. Bein, M. Dehmer, and S. Pickl, "Time-Based Estimation of Vulnerable Points in the Munich Subway Network", Post-conference proceedings of the International Conference on Operations Research (OR 2015), accepted on March 14, 2016, to be published by Springer-Verlag
@@ -99,9 +103,9 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 13. D. Bein, W. Bein and S. Phoha, "Efficient Data Centers, Cloud Computing in the Future of Distributed Computing", 7th International Conference on Information Technology: New Generations (ITNG), April 12-14, 2010, Las Vegas, Nevada, USA
 14. B. Chitturi, D. Bein, and N. Grishin, "Complete Enumeration of Compact Structural Motifs in Proteins", ACM First International Symposium on Bio Computing (ISB 2010), February 15-17, 2010, Calicut, Kerala, India
 15. D. Bein, T. Masuzawa, and Y. Yamauchi, "Reliable Communication on Emulated Channels Resilient to Transient Faults", Second International Workshop on Reliability, Availability, and Security (WRAS 09), Hiroshima, Japan, December 2009
-16. D. Bein, A. K. Datta, P. Sajja, and S.Q. Zheng, "Impact of Variable Transmission Range in All-Wireless Networks", 42nd Hawaii International Conference in System Sciences (HICSS 2009), pages 1-10.
 17. D. Bein, A. K. Datta, and B. Sathyanarayanan, "Efficient Broadcasting by Selective Forwarding", International Symposium on Intelligent Distributed Computing (IDC) 2009, Springer-Verlag Berlin, Studies in Computational Intelligence, vol. 237, pp. 43-52
 18. D. Bein, W. Bein, and P. Madiraju, "Cloud Computing and the Future of Web", Ninth International Conference on Informatics in Economy (IE), Bucharest, Romania, May 7-8, 2009
+16. D. Bein, A. K. Datta, P. Sajja, and S.Q. Zheng, "Impact of Variable Transmission Range in All-Wireless Networks", 42nd Hawaii International Conference in System Sciences (HICSS 2009), pages 1-10.
 19. D. Bein, A. K. Datta, and L. L. Larmore, "Local Synchronization on Oriented Rings", 10th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS), Springer-Verlag, LNCS 5340, pages 141-155, 2008
 20. D. Bein and S.Q. Zheng, "Approximating All-to-all Broadcast in Wireless Networks", International Symposium on Intelligent Distributed Computing (IDC) 2008, Springer-Verlag, Studies in Computational Intelligence, volume 162, pages 65-74
 21. Y. Yamauchi, D. Bein, T. Masuzawa, L. Morales, and H. I. Sudborough, "Calibrating an Embedded Protocol on an Asynchronous System", International Symposium on Intelligent Distributed Computing (IDC) 2008, Springer-Verlag, Studies in Computational Intelligence, volume 162, pages 227-236
@@ -136,7 +140,7 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 50. D. Bein, N. Brajkovska, and S. Latifi, "Embedding of Honeycomb Mesh Networks into Hypercubes", PDPTA 2003 International Conference, pages 871-876
 51. D. Bein, A.K. Datta, and V. Villain, "Self-Stabilizing Routing Protocol in General Networks", International Conference ROEDUNET 2003.
 
-***
+***  
 
 #### Grants
 

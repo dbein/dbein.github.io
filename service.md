@@ -17,23 +17,21 @@ title: Service
 
 #### Publicity Chair/co-Chair
 
-* [__ICDCN 2017__](http://www.icdcn.org/): 18th International Conference on Distributed Computing and Networking to be held in Hyderabad, India, from January 4-7, 2017 (Publicity co-chair) 
-* 6 more conferences and workshops between 2008-2015 (publicity chair or publicity co-chair)
+* 19th International Conference of Distributed Computing and Networking (ICDCN) 2018, to be held in Varanasi, India, during January 4-7, 2018 (Publicity co-chair)
+* 7 more conferences and workshops between 2008-2016 (publicity chair or publicity co-chair)
 
 #### Technical Program Committee (TPC) Member
 
-* [__IDC 2016__](http://idc2016.lip6.fr/): 10th International Symposium on Intelligent Distributed Computing, October 10-12, 2016, in Paris, France
-* IDC 2015: 9th International Symposium on Intelligent Distributed Computing, October 7-9, 2015, in Guimaraes, Portugal
-* 38 more conferences and workshops between 2007-2014
+* [__IDC 2017__](http://idc2017.pmf.uns.ac.rs/): 11th International Symposium on Intelligent Distributed Computing, 11 – 13 October 2017, Belgrade, Serbia
+* 40 more conferences and workshops between 2007-2014
 
 #### Conference/Journal/Workshop Peer Reviewer
 
+* 14th International Conference on Information Technology: New Generations (ITNG 2017)
+* Annual International Conference on Combinatorial Optimization and Applications (COCOA) 2016
 * Journal of Circuits, Systems, and Computers (2016)
-* IMCIC 2016: 7th International Multi-Conference on Complexity, Informatics and Cybernetics (http://www.iiis-spring16.org/imcic/website/default.asp?vc=26)
-* IMCL2016: 2016 International Conference on Interactive Mobile Communication, Technologies and Learning (http://www.imcl-conference.org/imcl2016/index.php)
-* IJDSN: International Journal of Distributed Sensor Networks (2011-2015)
-* COCOA 2015: 9th Annual International Conference on Combinatorial Optimization and Applications
-* 39 more journals, conferences and workshops
+* IJDSN: International Journal of Distributed Sensor Networks (2011-2016)
+* 42 more journals, conferences and workshops
 
 
 ## Service to University
