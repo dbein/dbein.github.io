@@ -22,6 +22,7 @@ title: Service
 
 #### Technical Program Committee (TPC) Member
 
+* ICDCN 2018 International Conference of Distributed Computing and Networking, Varanasi, India, January 4-7, 2018
 * [__IDC 2017__](http://idc2017.pmf.uns.ac.rs/): 11th International Symposium on Intelligent Distributed Computing, 11 – 13 October 2017, Belgrade, Serbia
 * [__I-SPAN__](http://cse.stfx.ca/~ISPAN2017/): 14th International Symposium on Pervasive Systems, Algorithms, and Networks (I-SPAN 2017), the track "Distributed algorithms and graph computing", 21-23 June 2017, Exeter, UK
 * 40 more conferences and workshops between 2007-2014
