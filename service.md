@@ -6,7 +6,10 @@ title: Service
 ## Service to Community
 
 #### General co-chair
-* [__ITNG 2017__](http://www.itng.info/): 14th International Conference on Information Technology : New Generations, to be held April 3-5, 2017, Las Vegas, Nevada, USA
+* [__ITNG 2018__](http://www.itng.info/): 15th International Conference on Information Technology: New Generations, to be held April 16-18, 2018, Las Vegas, Nevada, USA
+
+#### Poster chair
+* [__ICDCN 2018__](http://iitbhu.ac.in/ICDCN2018/call.html): 19th International Conference on Distributed Computing and Networking, to be held January 4-7, 2018, Varanasi, India. Call for posters and poster submission <a href="{{ site.baseurl }}/posterICDCN2018">here</a>.
 
 #### Associate/Academic Editor
 

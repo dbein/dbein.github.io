@@ -21,10 +21,13 @@ After graduating, in Fall 2006 I was a visiting scholar at Osaka University, Jap
 
 In August 2015, I joined California State University, Fullerton, as assistant professor in the Department of Computer Science.
 
-I authored five book chapters, 20 journals, 57 research and survey papers. I have received a DURIP grant from AFOSR on Cognitive Autonomous Systems.
+I authored eight book chapters, 20 journals, 60 research and survey papers. I have received a DURIP grant from AFOSR on Cognitive Autonomous Systems.
 I am the associate editor for two journals and Academic Editor for the British Journal of Mathematics and Computer Science. 
 
-I am the general co-organizer for 
-[__ITNG 2017__](http://www.itng.info/): 14th International Conference on
-Information Technology : New Generations.
+I am the general co-chair for 
+[__ITNG 2018__](http://www.itng.info/): 15th International Conference on
+Information Technology: New Generations.
 I served as a publicity chair, committee member on many conferences and workshops and was the reviewer for numerous conferences and journals. 
+
+I am the poster chair for
+[__ICDCN 2018__](http://iitbhu.ac.in/ICDCN2018/call.html): 19th International Conference on Distributed Computing and Networking. Call for posters and poster submission <a href="{{ site.baseurl }}/posterICDCN2018">here</a>.

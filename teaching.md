@@ -2,23 +2,33 @@
 layout: post
 title: Teaching
 navigation_headers:
+  - Fall 2017
   - Fall 2016
   - Spring 2016
   - Fall 2015
   - Send Feedback
 ---
 
-## Spring 2017
+***
 
-#### CPSC 335.002: Algorithms Engineering (Graduate/Undergraduate)
-Tuesday-Thursday 7.00-8.15 PM room CS-110B
-[__Syllabus__](https://goo.gl/zspDNf) | 
-<a href="{{ site.baseurl }}/calendar/335-002" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
+## Fall 2017
 
-#### CPSC 335.003: Algorithms Engineering (Graduate/Undergraduate)
-Tuesday-Thursday 4.00-5.15 PM room CS-110B
-[__Syllabus__](https://goo.gl/zspDNf) |
-<a href="{{ site.baseurl }}/calendar/335-003" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
+#### CPSC 131.003: Data Structures
+Monday-Wednesday 11.30 AM - 12.45 PM room EC-109
+[__Addendum to Syllabus__](https://goo.gl/KKyfF6) | 
+
+#### CPSC 131.004: Data Structures
+Monday-Wednesday 10-11.30 AM room EC-109
+[__Addendum to Syllabus__](https://goo.gl/KKyfF6) | 
+
+#### CPSC 131.005: Data Structures
+Monday-Wednesday, 4-5.15 PM room E-202
+[__Addendum to Syllabus__](https://goo.gl/KKyfF6) | 
+
+#### CPSC 474.001: Parallel and Distributed Computing (Graduate/Undergraduate)
+Monday-Wednesday 8.30-9.45 AM room CS-101
+[__Syllabus__](https://goo.gl/yRcqUS) | 
+<a href="{{ site.baseurl }}/calendar/474-001" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
 ***
 
@@ -32,6 +42,26 @@ To send an anonymous feedback, please use the form below.
 !--->
 
 ***
+
+## Summer 2017
+
+#### CPSC 313.051: The Computer Impact
+Online
+
+***
+
+## Spring 2017
+
+#### CPSC 335.002: Algorithms Engineering (Graduate/Undergraduate)
+Tuesday-Thursday 7.00-8.15 PM room CS-110B
+
+#### CPSC 335.003: Algorithms Engineering (Graduate/Undergraduate)
+Tuesday-Thursday 4.00-5.15 PM room CS-110B
+[__Syllabus__](https://goo.gl/zspDNf) |
+<a href="{{ site.baseurl }}/calendar/335-003" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
+
+***
+
 ## Fall 2016
 
 #### CPSC 335.001: Algorithms Engineering (Graduate/Undergraduate)

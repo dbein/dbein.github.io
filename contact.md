@@ -4,7 +4,7 @@ title: Contact Information
 ---
 
 
-    CS-542, Computer Science Building 
+    CS-511A, Computer Science Building 
     California State University, Fullerton 
     800 N. State College Blvd. 
     Fullerton, CA 92834 
