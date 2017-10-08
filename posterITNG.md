@@ -6,7 +6,7 @@ title: Call for Posters 2018 ITNG
 ### Poster Chair: Dr. Doina Bein, dbein@fullerton.edu
 #### Deadline for poster submission: Friday, November 24, 2017
 
-The ITNG poster session showcases works-in-progress in an informal setting. Topics of interest are the same as research topics in the ITNG 2018 conference call for papers but also exciting new topics and applications in the field. We strongly encourage student and industry submissions. Presenting a poster at ITNG 2018 is a great opportunity, especially for students, to obtain interesting and valuable feedback on ongoing research from experts in the field, attending the conference.
+The ITNG poster session showcases works-in-progress in an informal setting. Topics of interest are the same as research topics in the ITNG 2018 conference call for papers but also exciting new topics and applications in the field such as machine learning, cybersecurity, bigdata, CPS/IoT. We strongly encourage student and industry submissions. Presenting a poster at ITNG 2018 is a great opportunity, especially for students, to obtain interesting and valuable feedback on ongoing research from experts in the field, attending the conference.
 
 The ITNG Poster Committee will review all poster proposals and send notifications of accepted posters. 
 
