@@ -12,7 +12,7 @@ The ITNG Poster Committee will review all poster proposals and send notification
 
 1. The submission consists of two steps: first completing a Google Form 
 [__here__](http://bit.ly/2hpr3aj)
-with the basic information of the registrant: full name, email address, affiliation, other contact information, as well as title of the work and a single‐sentence summary that introduces the achievements of the work (50 words or fewer). The registrant will receive a reply email containing the link to a private Google drive will be sent out, where he/she can upload the poster. 
+with the basic information of the registrant: full name, email address, affiliation, other contact information, as well as title of the work and a single‐sentence summary that introduces the achievements of the work (50 words or fewer). The author will receive a reply email containing the link to a private Google drive will be sent out, where he/she can upload the poster. 
 2. Submission content: the submission must include the following materials and information:  
 One "representative image": This image should be suitable for possible use in the conference web site and promotional materials. 
 Poster abstract: An abstract (two pages maximum) describing your work (PDF). The abstract should include what area you are working in, what is novel about your work, and how this work relates to previous work on the same topic.
