@@ -43,15 +43,29 @@ Dr. Bein's research interests include:
 * 7th IEEE Annual Computing and Communication Workshop and Conference (IEEE CCWC 2017), Best Paper Award, Distributed System track, co-authored with N. Nguyen
 * 41st Hawaii International Conference in System Sciences (HICSS 2008), Software Technology track 
 
+#### Best Poster Award
+* SCAR 2017, Best poster award for the Titan Rover Control Team (five undergraduate students), as faculty mentor
+
+#### Best Graduate Student Award in ECS
+* SCAR 2018, Best graduate student award bestowed upon  Phillip Ly, for The College of Engineering and Compyter Science, as faculty mentor and advisor
+
+
 ***
 
 #### Book Chapters
 
-1. Fault Tolerance and Transmission Reliability in Wireless Networks, W. Bein and D. Bein, in Scalable Computing: Theory and Practice, John Wiley & Sons, S. U. Khan, L. Wang, and A. Y. Zomaya (Eds), January 29, 2013, pages 227-256
-2. Improving Target Localization and Tracking by Dynamically Prioritized Frequency Band Allocation for Wireless Sensor Networks in Urban Environments, B. Babadi, D. Bein, B.B. Madan, S. Phoha, V. Tarokh, and Y. Wen, in Distributed Sensor Networks, Second Edition: Sensor Networking and Applications, Chapman and Hall/CRC, S. S. Iyengar and R. R. Brooks (Eds), September 24, 2012, pages 499-514
-3. Dynamically Adaptive Multi-Modal Sensor Fusion in Urban Environments, S. Phoha, D. Bein, Y. Wen, B.B. Madan, and A. Ray, in Distributed Sensor Networks, Second Edition: Sensor Networking and Applications, Chapman and Hall/CRC, S. S. Iyengar and R. R. Brooks (Eds), September 24, 2012, pages 551-576
-4. Self-configuring, self-organizing, and self-healing schemes in MANETs, D. Bein, Chapter 2 in Guide to Wireless Ad Hoc Networks, S. Misra, I. Woungang, and S. C. Misra (Eds), series Computer Communications and Networks, DOI 10.1007/978-1-84800-328-6 2, Springer-Verlag (London), pages 27-41, 2009
-5. Self-organizing and self-healing schemes in WSNs, D. Bein, Chapter 11 in Guide to Wireless Sensor Networks, S. Misra, I. Woungang, and S. C. Misra (Eds), Springer, series Computer Communications and Networks, DOI 10.1007/978-1-84882-218-4 11, Springer-Verlag (London), pages 293-308, 2009
+1. J. M. Narra, D. Bein, and V. Popa, Business Intelligence Dashboard Application for Insurance Cross Selling, Proceedings of ITNG 2018
+2. N. R. Prabhu, J. Andro-Vasko, D. Bein and W. Bein, Music Genre Classification using Data Mining and Machine Learning, Proceedings of ITNG 2018
+3. N. Nguyen, D. Bein (2018) Evaluating Assignments Using Grading App. In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 558, DOI: 10.1007/978-3-319-54978-1_108, pages 871-875.
+4. R. Cheruku, D. Bein, W. Bein, V. Popa (2018) Recruitment Drive Application. In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 558, DOI: 10.1007/978-3-319-54978-1_108, pages 865-870.
+5. Nistor M.S., Bein D., Teodorescu H.N., Pickl S.W. (2018) Finding the Maximal Day-Time Dependent Component of a Subway System. In: Cassenti D. (eds) Advances in Human Factors in Simulation and Modeling. AHFE 2017. Advances in Intelligent Systems and Computing, vol 591. Springer, Cham, pages 562–572
+6. Nistor M.S., Bein D., Bein W., Dehmer M., Pickl S. (2017) Time-Based Estimation of Vulnerable Points in the Munich Subway Network. In: Dörner K., Ljubic I., Pflug G., Tragler G. (eds) Operations Research Proceedings 2015. Operations Research Proceedings (GOR (Gesellschaft für Operations Research e.V.)). Springer, Cham
+7. Fault Tolerance and Transmission Reliability in Wireless Networks, W. Bein and D. Bein, in Scalable Computing: Theory and Practice, John Wiley & Sons, S. U. Khan, L. Wang, and A. Y. Zomaya (Eds), January 29, 2013, pages 227-256
+8. Improving Target Localization and Tracking by Dynamically Prioritized Frequency Band Allocation for Wireless Sensor Networks in Urban Environments, B. Babadi, D. Bein, B.B. Madan, S. Phoha, V. Tarokh, and Y. Wen, in Distributed Sensor Networks, Second Edition: Sensor Networking and Applications, Chapman and Hall/CRC, S. S. Iyengar and R. R. Brooks (Eds), September 24, 2012, pages 499-514
+9. Dynamically Adaptive Multi-Modal Sensor Fusion in Urban Environments, S. Phoha, D. Bein, Y. Wen, B.B. Madan, and A. Ray, in Distributed Sensor Networks, Second Edition: Sensor Networking and Applications, Chapman and Hall/CRC, S. S. Iyengar and R. R. Brooks (Eds), September 24, 2012, pages 551-576
+10. Self-configuring, self-organizing, and self-healing schemes in MANETs, D. Bein, Chapter 2 in Guide to Wireless Ad Hoc Networks, S. Misra, I. Woungang, and S. C. Misra (Eds), series Computer Communications and Networks, DOI 10.1007/978-1-84800-328-6 2, Springer-Verlag (London), pages 27-41, 2009
+11. Self-organizing and self-healing schemes in WSNs, D. Bein, Chapter 11 in Guide to Wireless Sensor Networks, S. Misra, I. Woungang, and S. C. Misra (Eds), Springer, series Computer Communications and Networks, DOI 10.1007/978-1-84882-218-4 11, Springer-Verlag (London), pages 293-308, 2009
+
 
 ***
 
@@ -83,6 +97,10 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 
 #### Refereed Conference/Workshop Papers
 
+61. N. Ang, D. Bein, D. Dao, L. Sanchez, J. Tran, and N. Vurdien, “Emotional Prosody Analysis on Human Voices”, 2018 IEEE CCWC
+60. J. Ligon, D. Bein, P. Ly, B. Onesto, “3D Point Cloud Processing Using Spin Images for Object Detection”, 2018 IEEE CCWC
+59. V. Ramappa and D. Bein, “MusiqGlobe.fm using MEAN Stack”, 2018 IEEE CCWC
+58. N. Pandey and D. Bein,” Web Application for Social Networking using RTC”, 2018 IEEE CCWC
 57. N. Nguyen, and D. Bein, “Distributed MPI Cluster with Docker Swarm Mode”, Proceedings of 7th IEEE Annual Computing and Communication Workshop and Conference (IEEE CCWC 2017), pages 447-453, 2017, Best Paper Award, Distributed Systems track
 56. S. Ricardo, D. Bein and A. Panangadan, “Low-Cost, Real-Time Obstacle Avoidance for Mobile Robots”, ”, Proceedings of 7th IEEE Annual Computing and Communication Workshop and Conference (IEEE CCWC 2017), pages 788-794, 2017.
 55. B. Madan, M. Banik, B.C Wu, and D. Bein, “Intrusion Tolerant Multi-Cloud Distributed Storage “, Proceedings of IEEE SmartCloud 2016, November 18-20, 2016, New York City
@@ -148,6 +166,8 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 
 #### Grants
 
-(Cal State Fullerton) PI for the grant “Environmental-aware Situation Assessment of Cognitive Autonomous Systems” (2016-2017), PC: Katie A. H. Wisecarver, Air Force Office of Scientific Research, total amount $85,326
+(Cal State Fullerton) PI for the grant “FY 2017 Summer Undergraduate Research Fellowship CTL” (April-August 2017), PM: Nuria Martinez, National Institute of Standards And Technology, amount $9636
+
+(Cal State Fullerton) PI for the grant “Environmental-aware Situation Assessment of Cognitive Autonomous Systems” (2016-2018), PC: Katie A. H. Wisecarver, Air Force Office of Scientific Research, total amount $85,326
 
 (Penn State) co-PI for the grant "Dynamic Data Driven Machine Perception and Learning for Border Control" (2012-2017), PM: Dr. F. Darema, Air Force Office of Scientific Research, total amount $1,068,215

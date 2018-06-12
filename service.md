@@ -6,22 +6,24 @@ title: Service
 ## Service to Community
 
 #### General co-chair
-* [__ITNG 2018__](http://www.itng.info/): 15th International Conference on Information Technology: New Generations, to be held April 16-18, 2018, Las Vegas, Nevada, USA
+* [__ITNG 2019__](http://www.itng.info/): 16th International Conference on Information Technology: New Generations, to be held April 1-3, 2019, Las Vegas, Nevada, USA
+* [__ITNG 2018__](http://www.itng.info/): 15th International Conference on Information Technology: New Generations, held April 16-18, 2018, Las Vegas, Nevada, USA
 
-#### Poster chair
-* [__ICDCN 2018__](http://iitbhu.ac.in/ICDCN2018/call.html): 19th International Conference on Distributed Computing and Networking, to be held January 4-7, 2018, Varanasi, India. Call for posters and poster submission <a href="{{ site.baseurl }}/posterICDCN2018">here</a>.
+#### Publication chair
+* [__ICDCN 2018__](http://iitbhu.ac.in/ICDCN2018/call.html): 19th International Conference on Distributed Computing and Networking, and associated workshops, held January 4-7, 2018, Varanasi, India. 
 
 #### Associate/Academic Editor
 
-* British Journal of Mathematics and Computer Science (December 2012 - present), Academic Editor
+* British Journal of Mathematics and Computer Science (December 2012 - present), [__Academic Editor__](http://www.sciencedomain.org/journal/6/editorial-board-members)
 * International Journal of Network Protocols and Algorithms - Power Efficient and Energy Saving Network Protocols and Algorithms area (May 2009 - present), Associate Editor
 * International Journal of Machine Intelligence (October 2010 - present), Associate Editor
 * Special Issue of the International Journal of Bio-Inspired Computation on Knowledge and Intelligence in Distributed Systems (2012) Co-editor with David Camacho, Costin Badica, and Martijn Warnier
 
 #### Publicity Chair/co-Chair
 
-* 19th International Conference of Distributed Computing and Networking (ICDCN) 2018, to be held in Varanasi, India, during January 4-7, 2018 (Publicity co-chair)
-* 7 more conferences and workshops between 2008-2016 (publicity chair or publicity co-chair)
+* 20th International Symposium on Stabilization, Safety, and Security of Distributed Systems, to be held November 4-7, 2018, Tokyo, Japan, [__Publicity co-chair of SSS__](http://www.coord.c.titech.ac.jp/symp/sss2018/)
+* 19th International Conference of Distributed Computing and Networking (ICDCN) 2018, held in Varanasi, India, during January 4-7, 2018 (Publicity co-chair)
+* 9 more conferences and workshops between 2008-2018 (publicity chair or publicity co-chair)
 
 #### Technical Program Committee (TPC) Member
 
@@ -32,6 +34,7 @@ title: Service
 
 #### Conference/Journal/Workshop Peer Reviewer
 
+* 15th International Conference on Information Technology: New Generations (ITNG 2018)
 * 14th International Conference on Information Technology: New Generations (ITNG 2017)
 * Annual International Conference on Combinatorial Optimization and Applications (COCOA) 2016
 * Journal of Circuits, Systems, and Computers (2016)
@@ -42,5 +45,6 @@ title: Service
 ## Service to University
 
 * Faculty Mentor of Professional Societies: ACM-W, CSUF chapter
-* Member of the Computer Science ad-hoc assessment committee
-* Member of Instructional Resources Committee
+* Member of the Computer Science Assessment committee (2015-present); Chair of the CS Assessment Committee (2017-2018)
+* Member of Computer Science Instructional Resources Committee (2016-present)
+* Member of the Computer Science Excetutive Committee (2017-present)
