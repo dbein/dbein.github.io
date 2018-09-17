@@ -96,7 +96,7 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 ***
 
 #### Refereed Conference/Workshop Papers
-
+62. Stefan Pickl, Sorin Nistor, Constantin Gaindric, Svetlana Cojocaru, Iulian Secrieru, Olga Popcova, Doina Bein, Diana Cimpoesu, "Concept of Decision Support Framework for Management of Mass Casualty Situations at Collections Points", 2018 MFOI
 61. N. Ang, D. Bein, D. Dao, L. Sanchez, J. Tran, and N. Vurdien, “Emotional Prosody Analysis on Human Voices”, 2018 IEEE CCWC
 60. J. Ligon, D. Bein, P. Ly, B. Onesto, “3D Point Cloud Processing Using Spin Images for Object Detection”, 2018 IEEE CCWC
 59. V. Ramappa and D. Bein, “MusiqGlobe.fm using MEAN Stack”, 2018 IEEE CCWC
@@ -125,9 +125,7 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 36. D. Bein, W. Bein, and P. Madiraju, “Cloud Computing and the Future of Web”, Ninth International Conference on Informatics in Economy (IE), Bucharest, Romania, May 7-8, 2009.
 35. D. Bein, A.K. Datta, P. Sajja, and S.Q. Zheng, “Impact of Variable Transmission Range in All- Wireless Networks”,  42nd Hawaii International Conference in System Sciences (HICSS), January 5-8, Waikoloa, Hawaii, 2009, pp. 1-10.
 34. D. Bein, A.K. Datta, and L.L. Larmore, “Local Synchronization on Oriented Rings”, 10th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS), Detroit, Michigan, November 21-23, 2008, Springer-Verlag, LNCS 5340, pp. 141-155.
-
 33. Y. Yamauchi, D. Bein. and T. Masuzawa, "Minimizing the Message Complexity on Embedded Protocols" (poster), 10th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS), Detroit, Michigan, November 21-23, 2008.
-
 32. D. Bein and S.Q. Zheng, “Approximating All-to-all Broadcast in Wireless Networks”, International Symposium on Intelligent Distributed Computing (IDC), Catania, Italy, September 18-19, 2008, pp. 65-74. 
 31. Y. Yamauchi, D. Bein, T. Masuzawa, L. Morales, and H.I. Sudborough, “Calibrating an Embedded Protocol on an Asynchronous System”, International Symposium on Intelligent Distributed Computing (IDC), Catania, Italy, September 18-19, 2008, pp. 227-236. 
 30. D. Bein, A.K. Datta, and L.L. Larmore, “Self-stabilizing Synchronization Algorithms on Oriented Chains”, IEEE 4th International Conference on Intelligent Computer Communication and Processing (ICCP), Cluj-Napoca, Romania, August 28-30, 2008, pp. 303-306.
@@ -166,8 +164,10 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 
 #### Grants
 
-(Cal State Fullerton) PI for the grant “FY 2017 Summer Undergraduate Research Fellowship CTL” (April-August 2017), PM: Nuria Martinez, National Institute of Standards And Technology, amount $9636
+(CSUF) Co-PI for the grant “Building Capacity: Advancing Student Success in Undergraduate Engineering and Computer Science” (ASSURE-US)  (October 2018 to September 2023), National Science Foundation, amount $1,496,967; PI Dr. Sudarshan Kurwadkar, other co-PI: Dr. Jidong Huang, Dr. Antoinette Linton, Dr. Salvador Mayoral
 
-(Cal State Fullerton) PI for the grant “Environmental-aware Situation Assessment of Cognitive Autonomous Systems” (2016-2018), PC: Katie A. H. Wisecarver, Air Force Office of Scientific Research, total amount $85,326
+(CSUF) PI for the grant “FY 2017 Summer Undergraduate Research Fellowship CTL” (April-August 2017), PM: Nuria Martinez, National Institute of Standards And Technology, amount $9636
+
+(CSUF) PI for the grant “Environmental-aware Situation Assessment of Cognitive Autonomous Systems” (2016-2018), PC: Katie A. H. Wisecarver, Air Force Office of Scientific Research, total amount $85,326
 
 (Penn State) co-PI for the grant "Dynamic Data Driven Machine Perception and Learning for Border Control" (2012-2017), PM: Dr. F. Darema, Air Force Office of Scientific Research, total amount $1,068,215
