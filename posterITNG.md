@@ -17,10 +17,9 @@ The ITNG Poster Committee will review all poster proposals and send notification
 with the basic information of the registrant: full name, email address, affiliation, other contact information, as well as title of the work and a single‐sentence summary that introduces the achievements of the work (50 words or fewer). The author will receive a reply email containing the link to a private Google drive will be sent out, where he/she can upload the poster. 
 2. Submission content: the submission must include the following materials and information:  
 One "representative image": This image should be suitable for possible use in the conference web site and promotional materials. 
-Poster abstract: An abstract (two pages maximum) describing your work (PDF). The abstract should include what area you are working in, what is novel about your work, and how this work relates to previous work on the same topic.
+Poster abstract: An abstract (two pages maximum) describing your work (PDF). The abstract should include what area you are working in, what is novel about your work, and how this work relates to previous work on the same topic. A sample of a poster submission is available [__here__]({{ site.baseurl }}/files/template_poster_ITNG.docx).
 Submission categories and keywords: You will be asked to tag your submission with appropriate keywords to help ensure your submission is reviewed and juried appropriately. 
-3. Deadline for submission: March 1, 2019 
+3. Deadline for poster submission: March 1, 2019 
 4. Evaluation: After your work is submitted, it is reviewed by a panel of experts of varying backgrounds. Each reviewer evaluates the posters independently before meeting to discuss their evaluations and make recommendations to the final selection committee. 
 5. Deadline for receiving the evaluation: March 15, 2019 
-6. Deadline for submitting the poster as a PDF file of accepted posters: March 22, 2019. A poster is usually A0 paper size in portrait mode (841 x 1189mm). If your poster is larger, please inform the Poster Chair.
-7. Registration to the conference:  Deadline for registering to the conference: anytime after submitting the final version of the poster). Submit the registration confirmation to the Poster Chair.
+6. If the poster is accepted, then the authors must register to the conference, if it has not done so. Please submit the registration confirmation to the Poster Chair or Co-Chair.
