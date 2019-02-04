@@ -21,8 +21,8 @@ After graduating, in Fall 2006 I was a visiting scholar at Osaka University, Jap
 
 In August 2015, I joined California State University, Fullerton, as assistant professor in the Department of Computer Science.
 
-I authored eight book chapters, 20 journals, 60 research and survey papers. 
-I have received a DURIP grant from AFOSR on Cognitive Autonomous Systems, a NIST grant for Summer Undegraduate Research, and I am co-PI for an NSF grant on advancing undergraduate research.
+I authored 13 book chapters, 19 journals, 68 research and survey papers. 
+I was the co-PI for an Air Force Office of Scientific Research (AFOSR) grant ”Dynamic Data Driven Machine Perception and Learning for Border Control” ($1,068,215; 2012-2017) and PI for a DURIP AFOSR grant ($85,326; 2016-2018) “Environmental-aware Situation Assessment of Cognitive Autonomous Systems”). I am co-PI of an ongoing NSF grant ($1,496,967; 2018-2023) “Building Capacity: Advancing Student Success in Undergraduate Engineering and Computer Science” on advancing undergraduate research.
 I am the associate editor for two journals and Academic Editor for the Journal of Advances in Mathematics and Computer Science (former name: British Journal of Mathematics and Computer Science). 
 
 I am the general co-chair for 

@@ -40,6 +40,8 @@ Dr. Bein's research interests include:
 
 #### Best Paper Award
 
+* IEEE 10th Annual Computing and Communication Workshop and conference (IEEE CCWC 2019), Best Presenter Award, co-authored with N. Rale, R. Solanki, J. Andro-Vasko, W. Bein
+* 9th IEEE Annual Ubiquitous Computing (UEMCON 2018), Best Paper Award, co-authored with P. Ly and A. Verma
 * 7th IEEE Annual Computing and Communication Workshop and Conference (IEEE CCWC 2017), Best Paper Award, Distributed System track, co-authored with N. Nguyen
 * 41st Hawaii International Conference in System Sciences (HICSS 2008), Software Technology track 
 
@@ -54,48 +56,56 @@ Dr. Bein's research interests include:
 
 #### Book Chapters
 
-1. J. M. Narra, D. Bein, and V. Popa, Business Intelligence Dashboard Application for Insurance Cross Selling, Proceedings of ITNG 2018
-2. N. R. Prabhu, J. Andro-Vasko, D. Bein and W. Bein, Music Genre Classification using Data Mining and Machine Learning, Proceedings of ITNG 2018
-3. N. Nguyen, D. Bein (2018) Evaluating Assignments Using Grading App. In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 558, DOI: 10.1007/978-3-319-54978-1_108, pages 871-875.
-4. R. Cheruku, D. Bein, W. Bein, V. Popa (2018) Recruitment Drive Application. In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 558, DOI: 10.1007/978-3-319-54978-1_108, pages 865-870.
-5. Nistor M.S., Bein D., Teodorescu H.N., Pickl S.W. (2018) Finding the Maximal Day-Time Dependent Component of a Subway System. In: Cassenti D. (eds) Advances in Human Factors in Simulation and Modeling. AHFE 2017. Advances in Intelligent Systems and Computing, vol 591. Springer, Cham, pages 562–572
+13. P. K. Bhullar, C. Vielma, D. Bein, and V. Popa, “MeasureOP- Sentiment Analysis of Movies Text Data”, Proceedings of ITNG 2019
+12. R. Obidah and D. Bein, “Game based learning using Unreal Engine”, Proceedings of ITNG 2019
+11. J. M. Narra, D. Bein, and V. Popa, Business Intelligence Dashboard Application for Insurance Cross Selling, In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 738, pages 427-432
+10. N. R. Prabhu, J. Andro-Vasko, D. Bein and W. Bein, Music Genre Classification using Data Mining and Machine Learning, . In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 738, pages 397-403 
+9. N. Nguyen, D. Bein (2018) Evaluating Assignments Using Grading App. In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 558, DOI: 10.1007/978-3-319-54978-1_108, pages 871-875.
+8. R. Cheruku, D. Bein, W. Bein, V. Popa (2018) Recruitment Drive Application. In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 558, DOI: 10.1007/978-3-319-54978-1_108, pages 865-870.
+7. Nistor M.S., Bein D., Teodorescu H.N., Pickl S.W. (2018) Finding the Maximal Day-Time Dependent Component of a Subway System. In: Cassenti D. (eds) Advances in Human Factors in Simulation and Modeling. AHFE 2017. Advances in Intelligent Systems and Computing, vol 591. Springer, Cham, pages 562–572
 6. Nistor M.S., Bein D., Bein W., Dehmer M., Pickl S. (2017) Time-Based Estimation of Vulnerable Points in the Munich Subway Network. In: Dörner K., Ljubic I., Pflug G., Tragler G. (eds) Operations Research Proceedings 2015. Operations Research Proceedings (GOR (Gesellschaft für Operations Research e.V.)). Springer, Cham
-7. Fault Tolerance and Transmission Reliability in Wireless Networks, W. Bein and D. Bein, in Scalable Computing: Theory and Practice, John Wiley & Sons, S. U. Khan, L. Wang, and A. Y. Zomaya (Eds), January 29, 2013, pages 227-256
-8. Improving Target Localization and Tracking by Dynamically Prioritized Frequency Band Allocation for Wireless Sensor Networks in Urban Environments, B. Babadi, D. Bein, B.B. Madan, S. Phoha, V. Tarokh, and Y. Wen, in Distributed Sensor Networks, Second Edition: Sensor Networking and Applications, Chapman and Hall/CRC, S. S. Iyengar and R. R. Brooks (Eds), September 24, 2012, pages 499-514
-9. Dynamically Adaptive Multi-Modal Sensor Fusion in Urban Environments, S. Phoha, D. Bein, Y. Wen, B.B. Madan, and A. Ray, in Distributed Sensor Networks, Second Edition: Sensor Networking and Applications, Chapman and Hall/CRC, S. S. Iyengar and R. R. Brooks (Eds), September 24, 2012, pages 551-576
-10. Self-configuring, self-organizing, and self-healing schemes in MANETs, D. Bein, Chapter 2 in Guide to Wireless Ad Hoc Networks, S. Misra, I. Woungang, and S. C. Misra (Eds), series Computer Communications and Networks, DOI 10.1007/978-1-84800-328-6 2, Springer-Verlag (London), pages 27-41, 2009
-11. Self-organizing and self-healing schemes in WSNs, D. Bein, Chapter 11 in Guide to Wireless Sensor Networks, S. Misra, I. Woungang, and S. C. Misra (Eds), Springer, series Computer Communications and Networks, DOI 10.1007/978-1-84882-218-4 11, Springer-Verlag (London), pages 293-308, 2009
+5. Fault Tolerance and Transmission Reliability in Wireless Networks, W. Bein and D. Bein, in Scalable Computing: Theory and Practice, John Wiley & Sons, S. U. Khan, L. Wang, and A. Y. Zomaya (Eds), January 29, 2013, pages 227-256
+4. Improving Target Localization and Tracking by Dynamically Prioritized Frequency Band Allocation for Wireless Sensor Networks in Urban Environments, B. Babadi, D. Bein, B.B. Madan, S. Phoha, V. Tarokh, and Y. Wen, in Distributed Sensor Networks, Second Edition: Sensor Networking and Applications, Chapman and Hall/CRC, S. S. Iyengar and R. R. Brooks (Eds), September 24, 2012, pages 499-514
+3. Dynamically Adaptive Multi-Modal Sensor Fusion in Urban Environments, S. Phoha, D. Bein, Y. Wen, B.B. Madan, and A. Ray, in Distributed Sensor Networks, Second Edition: Sensor Networking and Applications, Chapman and Hall/CRC, S. S. Iyengar and R. R. Brooks (Eds), September 24, 2012, pages 551-576
+2. Self-configuring, self-organizing, and self-healing schemes in MANETs, D. Bein, Chapter 2 in Guide to Wireless Ad Hoc Networks, S. Misra, I. Woungang, and S. C. Misra (Eds), series Computer Communications and Networks, DOI 10.1007/978-1-84800-328-6 2, Springer-Verlag (London), pages 27-41, 2009
+1. Self-organizing and self-healing schemes in WSNs, D. Bein, Chapter 11 in Guide to Wireless Sensor Networks, S. Misra, I. Woungang, and S. C. Misra (Eds), Springer, series Computer Communications and Networks, DOI 10.1007/978-1-84882-218-4 11, Springer-Verlag (London), pages 293-308, 2009
 
 
 ***
 
 #### Journal Publications
 
-1. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, online as of February 23, 2016
+20. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, online as of February 23, 2016
 http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
-2. Y. Wen, D. Bein, S. Phoha, "Dynamic Clustering of Multi-modal Sensor Networks in Urban Scenarios", Information Fusion (2014) 15:130-140
-3. S. Phoha, G. Mallapragada, Y. Wen, D. Bein, and A. Ray, "Designing a Fusion-Driven Sensor Network to Selectively Track Mobile Targets," Parallel Processing Letters (2012) 22(1), 15 pages
-4. D. Bein, H. Kakugawa, and T. Masuzawa, "Self-stabilising protocols on oriented chains with joins and leaves", International Journal of Autonomous and Adaptive Communications Systems (IJAACS) (2012) 5(2):178-199
-5. Y. Yamauchi, D. Bein, T. Masuzawa, "Reliable Communication on Emulated Channels Resilient to Transient Faults", International Journal of Foundations of Computer Science (IJFCS) (2011) 22(5):1099-1122
-6. D. Bein, Y. Wen, S. Phoha, B. B. Madan, A. Ray, "Distributed network control for mobile multi-modal wireless sensor networks," Journal of Parallel and Distributed Computing (JPDC) (2011) 71(3):460-470
-7. D. Bein, A.K. Datta, and B.A. Sathyanarayanan, "Efficient Broadcasting in MANETs by Selective Forwarding", Scalable Computing: Practice and Experience (2010) 11(1):43-52
-8. Y. Yamauchi, D. Bein, T. Masuzawa, L. Morales, and I.H. Sudborough, "Calibrating Embedded Protocols on Asynchronous Systems", Information Sciences (2010) 180:1793-1801, full paper
-9. D. Bein and S.Q. Zheng, "An Effective Algorithm for Computing Energy-Efficient Broadcasting Trees in All-Wireless Networks", Ad Hoc & Sensor Wireless Networks (2010), 10:253-265
-10. D. Bein and S.Q. Zheng, "Energy Efficient All-to-All Broadcast in All-Wireless Networks," Information Sciences (2010) 180:1781-1792
-11. Y. Yamauchi, D. Bein, T. Masuzawa, L. Morales, and I. H. Sudborough, "Calibrating Embedded Protocols on Asynchronous Systems," Information Sciences (2010) 180:1793-1801
-12. D. Bein, W. Bein, and P. Madiraju, "The Impact of Cloud Computing on Web 2.0", Economy Informatics Journal (2009) 9(1):5-12
-13. W. Bein, D. Bein, and S. Malladi, "Fault Tolerant Coverage Models for Sensor Networks", International Journal of Sensor Networks (2009) 5(4):199-209
-14. Y. Yamauchi, T. Masuzawa, and D. Bein, "Preserving the Fault-Containment of Ring Protocols Executed on Trees", British Computer Journal (2009) 52(4):483-498
-15. D. Bein, A. K. Datta, L. L. Larmore, "Synchronization Algorithms on Oriented Chains", Scientific Annals in Computer Science (2008) 18:13-34
-16. D. Bein, A. K. Datta, and S. Yellenki, "Cluster-Based Route Discovery Protocol", Scalable Computing: Practice and Experience Journal, Special issue on Distributed Intelligent Systems (2008) 9(1):21-28
-17. D. Bein, A. K. Datta and M. H. Karaata, "An Optimal Snap-Stabilizing Multi-Wave Algorithm", British Computer Journal (2007) 50(3):332-340
-18. D. Bein, A. K. Datta, and V. Villain, "Self-Stabilizing Local Routing in Ad Hoc Networks", British Computer Journal (2007) 50(2):197-203
-19. D. Bein, V. Jolly, B. Kumar, and S. Latifi, "Reliability Modeling in Wireless Sensor Networks", International Journal of Information Technology (2005) 11(2):1-8
-20. D. Bein, W. W. Bein, N. Brajkovska, and S. Latifi, "Optimal Embedding of Honeycomb Networks into Hypercubes", Parallel Processing Letters (2004) 14(3&4):367-375
+19. Y. Wen, D. Bein, S. Phoha, "Dynamic Clustering of Multi-modal Sensor Networks in Urban Scenarios", Information Fusion (2014) 15:130-140
+18. S. Phoha, G. Mallapragada, Y. Wen, D. Bein, and A. Ray, "Designing a Fusion-Driven Sensor Network to Selectively Track Mobile Targets," Parallel Processing Letters (2012) 22(1), 15 pages
+17. D. Bein, H. Kakugawa, and T. Masuzawa, "Self-stabilising protocols on oriented chains with joins and leaves", International Journal of Autonomous and Adaptive Communications Systems (IJAACS) (2012) 5(2):178-199
+16. Y. Yamauchi, D. Bein, T. Masuzawa, "Reliable Communication on Emulated Channels Resilient to Transient Faults", International Journal of Foundations of Computer Science (IJFCS) (2011) 22(5):1099-1122
+15. D. Bein, Y. Wen, S. Phoha, B. B. Madan, A. Ray, "Distributed network control for mobile multi-modal wireless sensor networks," Journal of Parallel and Distributed Computing (JPDC) (2011) 71(3):460-470
+14. D. Bein, A.K. Datta, and B.A. Sathyanarayanan, "Efficient Broadcasting in MANETs by Selective Forwarding", Scalable Computing: Practice and Experience (2010) 11(1):43-52
+13. Y. Yamauchi, D. Bein, T. Masuzawa, L. Morales, and I.H. Sudborough, "Calibrating Embedded Protocols on Asynchronous Systems", Information Sciences (2010) 180:1793-1801, full paper
+12. D. Bein and S.Q. Zheng, "An Effective Algorithm for Computing Energy-Efficient Broadcasting Trees in All-Wireless Networks", Ad Hoc & Sensor Wireless Networks (2010), 10:253-265
+11. D. Bein and S.Q. Zheng, "Energy Efficient All-to-All Broadcast in All-Wireless Networks," Information Sciences (2010) 180:1781-1792
+10. Y. Yamauchi, D. Bein, T. Masuzawa, L. Morales, and I. H. Sudborough, "Calibrating Embedded Protocols on Asynchronous Systems," Information Sciences (2010) 180:1793-1801
+9. D. Bein, W. Bein, and P. Madiraju, "The Impact of Cloud Computing on Web 2.0", Economy Informatics Journal (2009) 9(1):5-12
+8. W. Bein, D. Bein, and S. Malladi, "Fault Tolerant Coverage Models for Sensor Networks", International Journal of Sensor Networks (2009) 5(4):199-209
+7. Y. Yamauchi, T. Masuzawa, and D. Bein, "Preserving the Fault-Containment of Ring Protocols Executed on Trees", British Computer Journal (2009) 52(4):483-498
+6. D. Bein, A. K. Datta, L. L. Larmore, "Synchronization Algorithms on Oriented Chains", Scientific Annals in Computer Science (2008) 18:13-34
+5. D. Bein, A. K. Datta, and S. Yellenki, "Cluster-Based Route Discovery Protocol", Scalable Computing: Practice and Experience Journal, Special issue on Distributed Intelligent Systems (2008) 9(1):21-28
+4. D. Bein, A. K. Datta and M. H. Karaata, "An Optimal Snap-Stabilizing Multi-Wave Algorithm", British Computer Journal (2007) 50(3):332-340
+3. D. Bein, A. K. Datta, and V. Villain, "Self-Stabilizing Local Routing in Ad Hoc Networks", British Computer Journal (2007) 50(2):197-203
+2. D. Bein, V. Jolly, B. Kumar, and S. Latifi, "Reliability Modeling in Wireless Sensor Networks", International Journal of Information Technology (2005) 11(2):1-8
+1. D. Bein, W. W. Bein, N. Brajkovska, and S. Latifi, "Optimal Embedding of Honeycomb Networks into Hypercubes", Parallel Processing Letters (2004) 14(3&4):367-375
 
 ***
 
 #### Refereed Conference/Workshop Papers
+68. N. Rale, R. Solanki, D. Bein, J. Andro-Vasko, W. Bein, “Prediction of Crop Cultivation”, 2019 IEEE CCWC, Best presenter award
+67. S. Solanki, R. H. Ravilla, D. Bein, “Study of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout”, 2019 IEEE CCWC
+66. A. Jeerige, D. Bein, and A. Verma, “Comparison of Deep Reinforcement Learning Approaches for Intelligent Game Playing”, 2019 IEEE CCWC
+65. J. Eapen, D. Bein, and A. Verma, “Novel Deep Learning Model with CNN and Bi-Directional LSTM for Improved Stock Market Index Prediction”, 2019 IEEE CCWC
+64. T. Abrahams and D. Bein, “Analyzing Beauty by Building Custom Profiles Using Machine Learning”, 2019 IEEE CCWC
+63. P. Ly, D. Bein, and A. Verma, “New Compact Deep Learning Model for Skin Cancer Recognition', IEEE UEMCON 2018, Best paper award
 62. Stefan Pickl, Sorin Nistor, Constantin Gaindric, Svetlana Cojocaru, Iulian Secrieru, Olga Popcova, Doina Bein, Diana Cimpoesu, "Concept of Decision Support Framework for Management of Mass Casualty Situations at Collections Points", 2018 MFOI
 61. N. Ang, D. Bein, D. Dao, L. Sanchez, J. Tran, and N. Vurdien, “Emotional Prosody Analysis on Human Voices”, 2018 IEEE CCWC
 60. J. Ligon, D. Bein, P. Ly, B. Onesto, “3D Point Cloud Processing Using Spin Images for Object Detection”, 2018 IEEE CCWC
@@ -163,6 +173,8 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 ***  
 
 #### Grants
+
+(CSUF) PI for Graduation Initiative 2025 CSUF internal grant “Interactive Teaching Using Flipped Classroom and Collaborative Assessment”, amount $9500; co-PI Sandra Boulanger
 
 (CSUF) Co-PI for the grant “Building Capacity: Advancing Student Success in Undergraduate Engineering and Computer Science” (ASSURE-US)  (October 2018 to September 2023), National Science Foundation, amount $1,496,967; PI Dr. Sudarshan Kurwadkar, other co-PI: Dr. Jidong Huang, Dr. Antoinette Linton, Dr. Salvador Mayoral
 
