@@ -23,7 +23,7 @@ Monday-Wednesday 4 - 5.15 PM room EC-109
 [__Syllabus__](https://goo.gl/AE9duV) |
 <a href="{{ site.baseurl }}/calendar/131-03" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
-#### CPSC 335.01: Data Structures
+#### CPSC 335.01: Algorithms Engineering
 Monday-Wednesday, 1-2.15 PM room E-202 | 
 [__Syllabus__](https://goo.gl/yZsier) |
 <a href="{{ site.baseurl }}/calendar/335-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
