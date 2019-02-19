@@ -25,9 +25,9 @@ Submission categories and keywords: You will be asked to tag your submission wit
 6. If the poster is accepted, then the authors must register to the conference, if it has not done so. Please submit the registration confirmation to the Poster Chair or Co-Chair.
 
 
-__Note that students who present posters are able to register for 
+**Note that students who present posters are able to register for 
 the reduced cost of $250. The presenting author will then need to submit 
-the registration confirmation to the Co-Chair. __
+the registration confirmation to the Co-Chair.**
 
 ## Benefits for poster registration
 
