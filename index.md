@@ -32,3 +32,5 @@ I served as a publicity chair, committee member on many conferences and workshop
 
 I am the poster co-chair for
 [__ITNG 2019__](http://www.itng.info): 16th International Conference on Information Technology: New Generations. Call for posters and poster submission <a href="{{ site.baseurl }}/posterITNG">here</a>.
+
+I am TPC for [__2019 IEEE UEMCON__](http://ieee-uemcon.org/) and [__IDC 2019__](https://idc2019.ru/). 
