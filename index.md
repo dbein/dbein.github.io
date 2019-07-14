@@ -23,17 +23,15 @@ In August 2015, I joined California State University, Fullerton, as assistant pr
 
 I authored over 100 book chapters, journals, research and survey papers. 
 I was the co-PI for an Air Force Office of Scientific Research (AFOSR) grant ”Dynamic Data Driven Machine Perception and Learning for Border Control” ($1,068,215; 2012-2017) and PI for a DURIP AFOSR grant ($85,326; 2016-2018) “Environmental-aware Situation Assessment of Cognitive Autonomous Systems”). I am co-PI of an ongoing NSF grant ($1,496,967; 2018-2023) “Building Capacity: Advancing Student Success in Undergraduate Engineering and Computer Science” on advancing undergraduate research.
-I am the associate editor for two journals and Academic Editor for the Journal of Advances in Mathematics and Computer Science (former name: British Journal of Mathematics and Computer Science). 
+I am the associate editor for two journals and Academic Editor for the Journal of Advances in Mathematics and Computer Science (former name: British Journal of Mathematics and Computer Science). I served as a publicity chair, committee member on many conferences and workshops and was the reviewer for numerous conferences and journals. 
 
 I am the general co-chair for 
-[__ITNG 2019__](http://www.itng.info/): 16th International Conference on
-Information Technology: New Generations.
-I served as a publicity chair, committee member on many conferences and workshops and was the reviewer for numerous conferences and journals. 
+[__ITNG 2020__](http://www.itng.info/): 17th International Conference on Information Technology: New Generations.
 
-I am the co-chair, together with Dr. Sarah Harris (UNLV), for the [__Education track__]({{ site.baseurl }}educationITNG), part of [__ITNG 2020__](http://www.itng.info): 17th International Conference on Information Technology: New Generations. Call for paper submission 
+I am track co-chair, together with Dr. Sarah Harris (UNLV), for the [__Education track__]({{ site.baseurl }}educationITNG), part of [__ITNG 2020__](http://www.itng.info). Call for paper submission 
 <a href="{{ site.baseurl }}/educationITNG">here</a>.
 
 I am the poster co-chair for
-[__ITNG 2020__](http://www.itng.info): 17th International Conference on Information Technology: New Generations. Call for posters and poster submission <a href="{{ site.baseurl }}/posterITNG">here</a>.
+[__ITNG 2020__](http://www.itng.info). Call for posters and poster submission <a href="{{ site.baseurl }}/posterITNG">here</a>.
 
 I am TPC for [__2019 IEEE UEMCON__](http://ieee-uemcon.org/) and [__IDC 2019__](https://idc2019.ru/). 

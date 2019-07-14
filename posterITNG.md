@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Call for Posters 2019 ITNG
+title: Call for Posters 2020 ITNG
 ---
 
 ### Poster Co-Chair: Dr. Doina Bein, dbein@fullerton.edu
-#### Deadline for poster submission: March 15, 2019
+#### Deadline for poster submission: March 17, 2020
 
-The ITNG poster session showcases works-in-progress in an informal setting. Topics of interest are the same as research topics in the ITNG 2018 conference call for papers but also exciting new topics and applications in the field such as machine learning, cybersecurity, bigdata, CPS/IoT. We strongly encourage student and industry submissions. Presenting a poster at ITNG 2019 is a great opportunity, especially for students, to obtain interesting and valuable feedback on ongoing research from experts in the field, attending the conference.
+The ITNG poster session showcases works-in-progress in an informal setting. Topics of interest are the same as research topics in the ITNG 2020 conference call for papers but also exciting new topics and applications in the field such as machine learning, cybersecurity, bigdata, CPS/IoT. We strongly encourage student and industry submissions. Presenting a poster at ITNG 2020 is a great opportunity, especially for students, to obtain interesting and valuable feedback on ongoing research from experts in the field, attending the conference.
 
 A sample of a poster submission is available [__here__]({{ site.baseurl }}/files/template_poster_ITNG.docx).
 
@@ -25,9 +25,7 @@ Submission categories and keywords: You will be asked to tag your submission wit
 6. If the poster is accepted, then the authors must register to the conference, if it has not done so. Please submit the registration confirmation to the Poster Chair or Co-Chair.
 
 
-**Note that students who present posters are able to register for 
-the reduced cost of $250. The presenting author will then need to submit 
-the registration confirmation to the Co-Chair.**
+**Note that students who present posters are able to register for the reduced cost of $250. The presenting author will then need to submit the registration confirmation to the Co-Chair.**
 
 ## Benefits for poster registration
 
@@ -35,6 +33,6 @@ Some benefits to students who present posters at the conference are that they:
 * Find out about technology trends and job opportunities
 * Network with peers and experts, receive feedback, and collaborate
 * Will be considered for one of the three awards for best poster
-* Receive a certificate of participation and presentation at ITNG 2019
+* Receive a certificate of participation and presentation at ITNG 2020
 * Attend keynotes, technical sessions, and tutorials
 * Receive a reduced registration fee of $250 for conference attendance.
