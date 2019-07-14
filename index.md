@@ -30,7 +30,7 @@ I am the general co-chair for
 Information Technology: New Generations.
 I served as a publicity chair, committee member on many conferences and workshops and was the reviewer for numerous conferences and journals. 
 
-I am the co-chair, together with Dr. Sarah Harris (UNLV), for the [__Education track__](({{ site.baseurl }}educationITNG), part of [__ITNG 2020__](http://www.itng.info): 17th International Conference on Information Technology: New Generations. Call for paper submission 
+I am the co-chair, together with Dr. Sarah Harris (UNLV), for the [__Education track__]({{ site.baseurl }}educationITNG), part of [__ITNG 2020__](http://www.itng.info): 17th International Conference on Information Technology: New Generations. Call for paper submission 
 <a href="{{ site.baseurl }}/educationITNG">here</a>.
 
 I am the poster co-chair for
