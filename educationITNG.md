@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for Papers - Education Track at 2020 ITNG
+title: Call for Papers - Education and Learning Systems Track at 2020 ITNG
 top_image: images/ITNG-header1.jpg
 ---
 

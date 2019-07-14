@@ -28,7 +28,7 @@ I am the associate editor for two journals and Academic Editor for the Journal o
 I am the general co-chair for 
 [__ITNG 2020__](http://www.itng.info/): 17th International Conference on Information Technology: New Generations.
 
-I am track co-chair, together with Dr. Sarah Harris (UNLV), for the [__Education track__]({{ site.baseurl }}educationITNG), part of [__ITNG 2020__](http://www.itng.info). Call for paper submission 
+I am track co-chair, together with Dr. Sarah Harris (UNLV), for the [__Education and Learning Systems track__]({{ site.baseurl }}educationITNG), part of [__ITNG 2020__](http://www.itng.info). Call for paper submission 
 <a href="{{ site.baseurl }}/educationITNG">here</a>.
 
 I am the poster co-chair for
