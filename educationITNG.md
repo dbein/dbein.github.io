@@ -29,7 +29,7 @@ The applications of advanced information technology to education, including visi
 * Undergraduate research experiences
 * Virtual laboratories
 * Active learning tools
-* Ethics in science, tecahnolofy, computer science, engineering, and mathematics
+* Ethics in science, technology, computer science, engineering, and mathematics
 * Software engineering for education and instruction
 
 ### Paper Submission:
