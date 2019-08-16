@@ -19,9 +19,9 @@ with the basic information of the registrant: full name, email address, affiliat
 One "representative image": This image should be suitable for possible use in the conference web site and promotional materials. 
 Poster abstract: An abstract (two pages maximum) describing your work (PDF). The abstract should include what area you are working in, what is novel about your work, and how this work relates to previous work on the same topic. A sample of a poster submission is available [__here__]({{ site.baseurl }}/files/template_poster_ITNG.docx).
 Submission categories and keywords: You will be asked to tag your submission with appropriate keywords to help ensure your submission is reviewed and juried appropriately. 
-3. Deadline for poster submission: March 15, 2019 
+3. Deadline for poster submission: March 17, 2020 
 4. Evaluation: After your work is submitted, it is reviewed by a panel of experts of varying backgrounds. Each reviewer evaluates the posters independently before meeting to discuss their evaluations and make recommendations to the final selection committee. 
-5. Deadline for receiving the evaluation: March 19, 2019 
+5. Deadline for receiving the evaluation: March 19, 2020 
 6. If the poster is accepted, then the authors must register to the conference, if it has not done so. Please submit the registration confirmation to the Poster Chair or Co-Chair.
 
 
