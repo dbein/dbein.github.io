@@ -75,15 +75,14 @@ Dr. Bein's research interests include:
 
 #### Journal Publications
 
-20. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, online as of February 23, 2016
+19. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, online as of February 23, 2016
 http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
-19. Y. Wen, D. Bein, S. Phoha, "Dynamic Clustering of Multi-modal Sensor Networks in Urban Scenarios", Information Fusion (2014) 15:130-140
-18. S. Phoha, G. Mallapragada, Y. Wen, D. Bein, and A. Ray, "Designing a Fusion-Driven Sensor Network to Selectively Track Mobile Targets," Parallel Processing Letters (2012) 22(1), 15 pages
-17. D. Bein, H. Kakugawa, and T. Masuzawa, "Self-stabilising protocols on oriented chains with joins and leaves", International Journal of Autonomous and Adaptive Communications Systems (IJAACS) (2012) 5(2):178-199
-16. Y. Yamauchi, D. Bein, T. Masuzawa, "Reliable Communication on Emulated Channels Resilient to Transient Faults", International Journal of Foundations of Computer Science (IJFCS) (2011) 22(5):1099-1122
-15. D. Bein, Y. Wen, S. Phoha, B. B. Madan, A. Ray, "Distributed network control for mobile multi-modal wireless sensor networks," Journal of Parallel and Distributed Computing (JPDC) (2011) 71(3):460-470
-14. D. Bein, A.K. Datta, and B.A. Sathyanarayanan, "Efficient Broadcasting in MANETs by Selective Forwarding", Scalable Computing: Practice and Experience (2010) 11(1):43-52
-13. Y. Yamauchi, D. Bein, T. Masuzawa, L. Morales, and I.H. Sudborough, "Calibrating Embedded Protocols on Asynchronous Systems", Information Sciences (2010) 180:1793-1801, full paper
+18. Y. Wen, D. Bein, S. Phoha, "Dynamic Clustering of Multi-modal Sensor Networks in Urban Scenarios", Information Fusion (2014) 15:130-140
+17. S. Phoha, G. Mallapragada, Y. Wen, D. Bein, and A. Ray, "Designing a Fusion-Driven Sensor Network to Selectively Track Mobile Targets," Parallel Processing Letters (2012) 22(1), 15 pages
+16. D. Bein, H. Kakugawa, and T. Masuzawa, "Self-stabilising protocols on oriented chains with joins and leaves", International Journal of Autonomous and Adaptive Communications Systems (IJAACS) (2012) 5(2):178-199
+15. Y. Yamauchi, D. Bein, T. Masuzawa, "Reliable Communication on Emulated Channels Resilient to Transient Faults", International Journal of Foundations of Computer Science (IJFCS) (2011) 22(5):1099-1122
+14. D. Bein, Y. Wen, S. Phoha, B. B. Madan, A. Ray, "Distributed network control for mobile multi-modal wireless sensor networks," Journal of Parallel and Distributed Computing (JPDC) (2011) 71(3):460-470
+13. D. Bein, A.K. Datta, and B.A. Sathyanarayanan, "Efficient Broadcasting in MANETs by Selective Forwarding", Scalable Computing: Practice and Experience (2010) 11(1):43-52
 12. D. Bein and S.Q. Zheng, "An Effective Algorithm for Computing Energy-Efficient Broadcasting Trees in All-Wireless Networks", Ad Hoc & Sensor Wireless Networks (2010), 10:253-265
 11. D. Bein and S.Q. Zheng, "Energy Efficient All-to-All Broadcast in All-Wireless Networks," Information Sciences (2010) 180:1781-1792
 10. Y. Yamauchi, D. Bein, T. Masuzawa, L. Morales, and I. H. Sudborough, "Calibrating Embedded Protocols on Asynchronous Systems," Information Sciences (2010) 180:1793-1801
@@ -100,6 +99,7 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 ***
 
 #### Refereed Conference/Workshop Papers
+69. R. Jhangiani, A. Verma, D. Bein, “Machine Learning Pipeline for Fraud Detection and Prevention in E-Commerce Transactions”, IEEE UEMCON 2019
 68. N. Rale, R. Solanki, D. Bein, J. Andro-Vasko, W. Bein, “Prediction of Crop Cultivation”, 2019 IEEE CCWC, Best presenter award
 67. S. Solanki, R. H. Ravilla, D. Bein, “Study of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout”, 2019 IEEE CCWC
 66. A. Jeerige, D. Bein, and A. Verma, “Comparison of Deep Reinforcement Learning Approaches for Intelligent Game Playing”, 2019 IEEE CCWC

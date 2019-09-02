@@ -2,6 +2,8 @@
 layout: post
 title: Teaching
 navigation_headers:
+  - Fall 2019
+  - Summer 2019
   - Spring 2019
   - Fall 2018
   - Summer 2018
@@ -15,24 +17,23 @@ navigation_headers:
 
 ***
 
-## Spring 2019
+## Fall 2019
 
-#### CPSC 131.03: Data Structures
-Monday-Wednesday 4 - 5.15 PM room EC-109
-[__Addendum to Syllabus__](https://goo.gl/NeQzDL) | 
-[__Syllabus__](https://goo.gl/AE9duV) |
-<a href="{{ site.baseurl }}/calendar/131-03" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
+#### CPSC 131.04: Data Structures
+Monday-Wednesday 10 AM - 11.30 AM room EC-109 |
+[__Addendum to Syllabus__](https://drive.google.com/open?id=174VkiVaGFHqxANKFnZMHyEcfwAez3ECJq-CdJKiu1sc) | 
+[__Syllabus__](https://drive.google.com/open?id=1KOkQQiZ_MheTHhK9TpWJmYujzRnmIxqvrCbMS1WhXXo) |
+<a href="{{ site.baseurl }}/calendar/131-04" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
 #### CPSC 335.01: Algorithms Engineering
-Monday-Wednesday, 1-2.15 PM room E-202 | 
-[__Syllabus__](https://goo.gl/yZsier) |
+Monday-Wednesday, 2.30-3.45 PM room EC-109 | 
+[__Syllabus__](https://drive.google.com/open?id=1ZfeQIYsfyJnN1QbhyYlfkqZJTeXAafSvHmsEOU0i13E) |
 <a href="{{ site.baseurl }}/calendar/335-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
-
-#### CPSC 479.01: Introduction to High Performance Computing (Graduate/Undergraduate)
-Monday-Wednesday 11.30 AM -12.45 PM room CS-408
-[__Syllabus__](https://goo.gl/83b6ha) | 
-<a href="{{ site.baseurl }}/calendar/479-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
+#### CPSC 474.001: Parallel and Distributed Computing (Graduate/Undergraduate)
+Monday-Wednesday 8.30-9.45 AM room CS-101 |
+[__Syllabus__](https://drive.google.com/open?id=1oEOpsCSkmSNKqgYscwm7f6zyd9Krm23XlN1zWAw4ZzY)
+<a href="{{ site.baseurl }}/calendar/474-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
 ***
 
@@ -44,6 +45,29 @@ To send an anonymous feedback, please use the form below.
 <!---
 <iframe width="100%" height="582" allowTransparency="true" frameborder="0" scrolling="no" style="border:none" src="http://www.emailmeform.com/builder/embed/eRI7Vc0cdYe0sN0FnL2y5"><a href="http://www.emailmeform.com/builder/embed/eRI7Vc0cdYe0sN0FnL2y5">Fill out form.</a></iframe>
 !--->
+
+***
+
+## Summer 2019
+
+#### CPSC 313.50: The Computer Impact
+Online
+
+#### CPSC 323.01: Compilers and Languages
+Monday-Wednesday-Thursday 10.30 AM - 1.30 PM room CS-101
+
+***
+
+## Spring 2019
+
+#### CPSC 131.03: Data Structures
+Monday-Wednesday 4 - 5.15 PM room EC-109
+
+#### CPSC 335.01: Algorithms Engineering
+Monday-Wednesday, 1-2.15 PM room E-202 
+
+#### CPSC 479.01: Introduction to High Performance Computing (Graduate/Undergraduate)
+Monday-Wednesday 11.30 AM -12.45 PM room CS-408
 
 ***
 

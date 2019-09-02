@@ -4,7 +4,7 @@ title: Dr. Doina Bein
 top_image: images/csuf.jpg
 ---
 
-#### Assistant Professor in Computer Science
+#### Associate Professor in Computer Science
 
 ### California State University, Fullerton
 
@@ -19,7 +19,7 @@ I received my BS and one MS from the Al. I. Cuza University, Iasi, Romania, anot
 
 After graduating, in Fall 2006 I was a visiting scholar at Osaka University, Japan. Starting January 2007, I was Research Associate at The University of Texas at Dallas. In 2008 I joined the Applied Research Laboratory, The Pennsylvania State University, as research faculty. From Fall 2013 until May 2015, I was part-time instructor at The University of Nevada, Las Vegas.
 
-In August 2015, I joined California State University, Fullerton, as assistant professor in the Department of Computer Science.
+In August 2015, I joined California State University, Fullerton, as assistant professor in the Department of Computer Science. In August 2019, I became Associate Professor in Computer Science.
 
 I authored over 100 book chapters, journals, research and survey papers. 
 I was the co-PI for an Air Force Office of Scientific Research (AFOSR) grant ”Dynamic Data Driven Machine Perception and Learning for Border Control” ($1,068,215; 2012-2017) and PI for a DURIP AFOSR grant ($85,326; 2016-2018) “Environmental-aware Situation Assessment of Cognitive Autonomous Systems”). I am co-PI of an ongoing NSF grant ($1,496,967; 2018-2023) “Building Capacity: Advancing Student Success in Undergraduate Engineering and Computer Science” on advancing undergraduate research.
