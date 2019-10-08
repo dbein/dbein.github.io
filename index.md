@@ -31,6 +31,9 @@ I am the general co-chair for
 I am track co-chair, together with Dr. Sarah Harris (UNLV), for the [__Education and Learning Systems track__]({{ site.baseurl }}educationITNG), part of [__ITNG 2020__](http://www.itng.info). Call for paper submission 
 <a href="{{ site.baseurl }}/educationITNG">here</a>.
 
+I am track chair for the [__IoT and Cyber Physical Systems track__]({{ site.baseurl }}iotITNG), part of [__ITNG 2020__](http://www.itng.info). Call for paper submission 
+<a href="{{ site.baseurl }}/iotITNG">here</a>. 
+
 I am the poster co-chair for
 [__ITNG 2020__](http://www.itng.info). Call for posters and poster submission <a href="{{ site.baseurl }}/posterITNG">here</a>.
 
