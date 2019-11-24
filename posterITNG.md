@@ -25,8 +25,6 @@ Submission categories and keywords: You will be asked to tag your submission wit
 6. If the poster is accepted, then the authors must register to the conference, if it has not done so. Please submit the registration confirmation to the Poster Chair or Co-Chair.
 
 
-**Note that students who present posters are able to register for the reduced cost of $250. The presenting author will then need to submit the registration confirmation to the Co-Chair.**
-
 ## Benefits for poster registration
 
 Some benefits to students who present posters at the conference are that they:
@@ -34,5 +32,4 @@ Some benefits to students who present posters at the conference are that they:
 * Network with peers and experts, receive feedback, and collaborate
 * Will be considered for one of the three awards for best poster
 * Receive a certificate of participation and presentation at ITNG 2020
-* Attend keynotes, technical sessions, and tutorials
-* Receive a reduced registration fee of $250 for conference attendance.
+* Attend keynotes, technical sessions, and tutorials.
