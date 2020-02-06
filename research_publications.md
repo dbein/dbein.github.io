@@ -13,6 +13,7 @@ navigation_headers:
 
 Dr. Bein's research interests include: 
 
+* Machine Learning and Data Science
 * Automatic Dynamic Decision-making
 * Computational Sensing
 * Distributed Algorithms
@@ -55,8 +56,13 @@ Dr. Bein's research interests include:
 ***
 
 #### Book Chapters
-
-13. P. K. Bhullar, C. Vielma, D. Bein, and V. Popa, “MeasureOP- Sentiment Analysis of Movies Text Data”, Proceedings of ITNG 2019
+19. P. Joshi and D. Bein, “Audible Code, a Voice-Enabled Programming Extension of Visual Studio Code”, accepted at ITNG 2020
+18. S. Anand, D. Bein, J. Andro-Vasko, and W. Bein, “SpeakOut, a Web App for Online Therapy and Web Counseling”, accepted at ITNG 2020
+17. J. Estabillo, D. Lee, C. Ly, G. Orozco, D. Bein, S. Kurwadkar, J. Huang, and Y. Bai , “Using Projects on Clustering and Linear Regression to Develop Basic Research Skills in Freshmen and Sophomore Undergraduate Students”, accepted at ITNG 2020
+16. A. Ahmed, L. Macias, M. McCune, M. Medina, G. Orozco, D. Bein, S. Kurwadkar, J. Huang, O. Daescu, D. Xu, and Y. Bai, “Initiating Research Skills in Undergraduate Students through Data Science Projects”, accepted at ITNG 2020
+15.  D. Tu, D. Bein, and M. Gofman, “Designing a Unity Game Using the Haptic Feedback Gloves, VMG 30 Plus”, accepted at ITNG 2020
+14. C. Vielma, A. Verma, and D. Bein, “Single and Multibranch CNN-Bidirectional LSTM for IMDb Sentiment Analysis”, accepted at ITNG 2020
+13. P. K. Bhullar, C. Vielma, D. Bein, and V. Popa, “MeasureOP - Sentiment Analysis of Movies Text Data”, Proceedings of ITNG 2019
 12. R. Obidah and D. Bein, “Game based learning using Unreal Engine”, Proceedings of ITNG 2019
 11. J. M. Narra, D. Bein, and V. Popa, Business Intelligence Dashboard Application for Insurance Cross Selling, In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 738, pages 427-432
 10. N. R. Prabhu, J. Andro-Vasko, D. Bein and W. Bein, Music Genre Classification using Data Mining and Machine Learning, . In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 738, pages 397-403 
