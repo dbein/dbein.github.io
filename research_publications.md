@@ -50,7 +50,7 @@ Dr. Bein's research interests include:
 * SCAR 2017, Best poster award for the Titan Rover Control Team (five undergraduate students), as faculty mentor
 
 #### Best Graduate Student Award in ECS
-* SCAR 2018, Best graduate student award bestowed upon  Phillip Ly, for The College of Engineering and Compyter Science, as faculty mentor and advisor
+* SCAR 2018, Best graduate student award bestowed upon  Phillip Ly, for The College of Engineering and Computer Science, as faculty mentor and advisor
 
 
 ***
