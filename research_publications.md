@@ -80,7 +80,7 @@ Dr. Bein's research interests include:
 ***
 
 #### Journal Publications
-
+20. J. Eapen, A. Verma, and D. Bein, “Improved big data stock index prediction using deep learning with CNN and GRU”, accepted September 18, 2020,  International Journal of Big Data Intelligence
 19. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, online as of February 23, 2016
 http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 18. Y. Wen, D. Bein, S. Phoha, "Dynamic Clustering of Multi-modal Sensor Networks in Urban Scenarios", Information Fusion (2014) 15:130-140
@@ -105,6 +105,11 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 ***
 
 #### Refereed Conference/Workshop Papers
+74. R.R. Shetty, D. Bein, M.S. Nistor, and S. Pickl, "Semiotic Recognition System", accepted at IEEE CCWC 2021
+73. V. Maniyar, D. Bein, M.S. Nistor, and S. Pickl, "Drug Safety Intelligence and Automation", IEEE CCWC 2021, accepted at IEEE CCWC 2021
+72. J.V. Dirisam, D. Bein and A. Verma,  "Predictive Analytics of Donors in Crowdfunding Platforms: A Case Study on Donorschoose.org", accepted at IEEE CCWC 2021
+71. X. Suo, O. Glebova, D. Liu, A. Lazar, and D. Bein, "A Survey of Teaching PDC Content in Undergraduate Curriculum", accepted at IEEE CCWC 2021
+70. A. Ramesh, S.P. Nagisetti, N. Sridhar, K. Avery, and D. Bein,  "Station-Level Demand Prediction for Bike-Sharing System", accepted at IEEE CCWC 2021 
 69. R. Jhangiani, A. Verma, D. Bein, “Machine Learning Pipeline for Fraud Detection and Prevention in E-Commerce Transactions”, IEEE UEMCON 2019
 68. N. Rale, R. Solanki, D. Bein, J. Andro-Vasko, W. Bein, “Prediction of Crop Cultivation”, 2019 IEEE CCWC, Best presenter award
 67. S. Solanki, R. H. Ravilla, D. Bein, “Study of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout”, 2019 IEEE CCWC

@@ -28,15 +28,9 @@ I am the associate editor for two journals and Academic Editor for the Journal o
 I am the co-publicity chair, together with Arunmoezhi Ramachandran, for [__SSS 2020__](http://www.cse.msu.edu/~sandeep/SSS2020/index.html): 22nd International Symposium on Stabilization, Safety, and Security of Distributed Systems.
 
 I am the general co-chair for 
-[__ITNG 2020__](http://www.itng.info/): 17th International Conference on Information Technology: New Generations.
-
-I am track co-chair, together with Dr. Sarah Harris (UNLV), for the [__Education and Learning Systems track__]({{ site.baseurl }}educationITNG), part of [__ITNG 2020__](http://www.itng.info). Call for paper submission 
-<a href="{{ site.baseurl }}/educationITNG">here</a>.
-
-I am track chair for the [__IoT and Cyber Physical Systems track__]({{ site.baseurl }}iotITNG), part of [__ITNG 2020__](http://www.itng.info). Call for paper submission 
-<a href="{{ site.baseurl }}/iotITNG">here</a>. 
+[__ITNG 2021__](http://www.itng.info/): 18th International Conference on Information Technology: New Generations.
 
 I am the poster co-chair for
-[__ITNG 2020__](http://www.itng.info). Call for posters and poster submission <a href="{{ site.baseurl }}/posterITNG">here</a>.
+[__ITNG 2021__](http://www.itng.info). Call for posters and poster submission <a href="{{ site.baseurl }}/posterITNG">here</a>.
 
-I am TPC for [__2019 IEEE UEMCON__](http://ieee-uemcon.org/) and [__IDC 2019__](https://idc2019.ru/). 
+I am TPC for [__2020 IEEE UEMCON__](http://ieee-uemcon.org/) and [__IDC 2020__](http://idc2020.unirc.it/) postponed to September 2021. 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Call for Posters 2020 ITNG
+title: Call for Posters 2021 ITNG
 ---
 
 ### Poster Co-Chair: Dr. Doina Bein, dbein@fullerton.edu
-#### Deadline for poster submission: March 17, 2020
+#### Deadline for poster submission: March 17, 2021
 
 The ITNG poster session showcases works-in-progress in an informal setting. Topics of interest are the same as research topics in the ITNG 2020 conference call for papers but also exciting new topics and applications in the field such as machine learning, cybersecurity, bigdata, CPS/IoT. We strongly encourage student and industry submissions. Presenting a poster at ITNG 2020 is a great opportunity, especially for students, to obtain interesting and valuable feedback on ongoing research from experts in the field, attending the conference.
 
