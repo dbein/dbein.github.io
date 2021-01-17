@@ -2,6 +2,9 @@
 layout: post
 title: Teaching
 navigation_headers:
+  - Spring 2021
+  - Fall 2020
+  - Summer 2020
   - Spring 2020
   - Fall 2019
   - Summer 2019
@@ -18,27 +21,22 @@ navigation_headers:
 
 ***
 
-## Spring 2020
-
-#### CPSC 335.01: Algorithms Engineering
-Monday-Wednesday 1 PM - 2.15 PM room E-202 |
-[__Syllabus__](https://drive.google.com/open?id=1ZfeQIYsfyJnN1QbhyYlfkqZJTeXAafSvHmsEOU0i13E) |
-<a href="{{ site.baseurl }}/calendar/335-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
-
-#### CPSC 335.05: Algorithms Engineering
-Monday-Wednesday 4 PM - 5.15 PM room CS-102A |
-[__Syllabus__](https://drive.google.com/open?id=1ZfeQIYsfyJnN1QbhyYlfkqZJTeXAafSvHmsEOU0i13E) |
-<a href="{{ site.baseurl }}/calendar/335-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
+## Spring 2021
 
 #### CPSC 479.01: Introduction to High Performance Computing (Graduate/Undergraduate)
-Monday-Wednesday 11.30 AM - 12.45 PM room CS-408 |
+Monday-Wednesday 11:30 AM - 12:45 PM zoom |
 [__Syllabus__](https://drive.google.com/open?id=1ZfeQIYsfyJnN1QbhyYlfkqZJTeXAafSvHmsEOU0i13E) |
 <a href="{{ site.baseurl }}/calendar/479-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
 #### CPSC 535.01: Advanced Algorithms
-Monday-Wednesday 8.30 AM - 9.45 AM room EC-109 |
-[__Syllabus__](https://drive.google.com/open?id=1ZfeQIYsfyJnN1QbhyYlfkqZJTeXAafSvHmsEOU0i13E) |
+Monday-Wednesday 8:30 AM - 9:45 AM zoom |
+[__Syllabus__](https://docs.google.com/document/d/1OSnpcN3j445vndBvSfTU2nxT98wxDC2JNC79Fop0Yic/edit?usp=sharing) |
 <a href="{{ site.baseurl }}/calendar/535-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
+
+#### CPSC 597.01: Project (Seminar)
+Tuesday-Thursday 1 PM - 2:15 PM zoom |
+[__Syllabus__](https://docs.google.com/document/d/1JhZb7Otlwqtd7gTyOdGlxksb-zKanm5-Js3Kn6cM2Nc/edit?usp=sharing) |
+<a href="{{ site.baseurl }}/calendar/597-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
 ***
 
@@ -55,56 +53,95 @@ To send an anonymous feedback, please use the form below.
 
 ***
 
+## Fall 2020
+
+#### CPSC 131.04: Data Structures
+Monday-Wednesday 10-11:30 AM zoom  
+
+#### CPSC 335.01: Algorithms Engineering
+Monday-Wednesday, 2:30-3:45 PM zoom  
+
+#### CPSC 474.001: Parallel and Distributed Computing (Graduate/Undergraduate)
+Monday-Wednesday 8:30-9:45 AM zoom 
+
+***
+
+## Summer 2020
+
+#### CPSC 335.01: Algorithms Engineering
+Monday, Wednesday, Thursday 10 AM - 1 PM zoom 
+
+#### CPSC 313.70: The Computer Impact
+Online
+
+***
+
+## Spring 2020
+
+#### CPSC 335.01: Algorithms Engineering
+Monday-Wednesday 1-2:15 PM room E-202 
+
+#### CPSC 335.05: Algorithms Engineering
+Monday-Wednesday 4-5:15 PM room CS-102A 
+
+#### CPSC 479.01: Introduction to High Performance Computing (Graduate/Undergraduate)
+Monday-Wednesday 11:30 AM - 12:45 PM room CS-408 >
+
+#### CPSC 535.01: Advanced Algorithms
+Monday-Wednesday 8:30 AM - 9:45 AM room EC-109 
+
+***
+
 ## Fall 2019
 
 #### CPSC 131.04: Data Structures
-Monday-Wednesday 10 AM - 11.30 AM room EC-109 |
+Monday-Wednesday 10 AM - 11:30 AM room EC-109 |
 [__Addendum to Syllabus__](https://drive.google.com/open?id=174VkiVaGFHqxANKFnZMHyEcfwAez3ECJq-CdJKiu1sc) | 
 [__Syllabus__](https://drive.google.com/open?id=1KOkQQiZ_MheTHhK9TpWJmYujzRnmIxqvrCbMS1WhXXo) 
 
 #### CPSC 335.01: Algorithms Engineering
-Monday-Wednesday, 2.30-3.45 PM room EC-109 | 
+Monday-Wednesday, 2:30-3:45 PM room EC-109 | 
 [__Syllabus__](https://drive.google.com/open?id=1ZfeQIYsfyJnN1QbhyYlfkqZJTeXAafSvHmsEOU0i13E) 
 
-#### CPSC 474.001: Parallel and Distributed Computing (Graduate/Undergraduate)
-Monday-Wednesday 8.30-9.45 AM room CS-101 |
+#### CPSC 474.01: Parallel and Distributed Computing (Graduate/Undergraduate)
+Monday-Wednesday 8:30-9:45 AM room CS-101 |
 [__Syllabus__](https://drive.google.com/open?id=1oEOpsCSkmSNKqgYscwm7f6zyd9Krm23XlN1zWAw4ZzY)
 
 ***
 
 ## Summer 2019
 
-#### CPSC 313.50: The Computer Impact
+#### CPSC 313.70: The Computer Impact
 Online
 
 #### CPSC 323.01: Compilers and Languages
-Monday-Wednesday-Thursday 10.30 AM - 1.30 PM room CS-101
+Monday-Wednesday-Thursday 10:30 AM - 1:30 PM room CS-101
 
 ***
 
 ## Spring 2019
 
 #### CPSC 131.03: Data Structures
-Monday-Wednesday 4 - 5.15 PM room EC-109
+Monday-Wednesday 4-5:15 PM room EC-109
 
 #### CPSC 335.01: Algorithms Engineering
-Monday-Wednesday, 1-2.15 PM room E-202 
+Monday-Wednesday, 1-2:15 PM room E-202 
 
 #### CPSC 479.01: Introduction to High Performance Computing (Graduate/Undergraduate)
-Monday-Wednesday 11.30 AM -12.45 PM room CS-408
+Monday-Wednesday 11:30 AM -12:45 PM room CS-408
 
 ***
 
 ## Fall 2018
 
 #### CPSC 131.003: Data Structures
-Monday-Wednesday 11.30 AM - 12.45 PM room EC-109
+Monday-Wednesday 11:30 AM - 12:45 PM room EC-109
 
 #### CPSC 439-01 Theory of Computation
-Monday-Wednesday, 2.30-3.45 PM room EC-008
+Monday-Wednesday, 2:30-3:45 PM room EC-008
 
 #### CPSC 474.001: Parallel and Distributed Computing (Graduate/Undergraduate)
-Monday-Wednesday 8.30-9.45 AM room CS-101
+Monday-Wednesday 8:30-9:45 AM room CS-101
 
 ***
 
@@ -120,30 +157,30 @@ Monday-Wednesday-Thursday 3-6 PM room E-202
 
 ## Spring 2018
 
-#### CPSC 131.003: Data Structures
-Monday-Wednesday 11.30 AM - 12.45 PM room EC-109
+#### CPSC 131.03: Data Structures
+Monday-Wednesday 11:30 AM - 12:45 PM room EC-109
 
 #### CPSC 323.04: Compilers and Languages
-Monday-Wednesday, 5.30-6.45 PM room CS-110B
+Monday-Wednesday, 5:30-6:45 PM room CS-110B
 
-#### CPSC 379.01: Introduction to High Performance Computing (Graduate/Undergraduate)
-Monday-Wednesday 8.30-9.45 AM room CS-101
+#### CPSC 479.01: Introduction to High Performance Computing (Graduate/Undergraduate)
+Monday-Wednesday 8:30-9:45 AM room CS-101
 
 ***
 
 ## Fall 2017
 
-#### CPSC 131.003: Data Structures
-Monday-Wednesday 11.30 AM - 12.45 PM room EC-109
+#### CPSC 131.03: Data Structures
+Monday-Wednesday 11:30 AM - 12:45 PM room EC-109
 
-#### CPSC 131.004: Data Structures
-Monday-Wednesday 10-11.30 AM room EC-109
+#### CPSC 131.04: Data Structures
+Monday-Wednesday 10-11:30 AM room EC-109
 
-#### CPSC 131.005: Data Structures
-Monday-Wednesday, 4-5.15 PM room E-202
+#### CPSC 131.05: Data Structures
+Monday-Wednesday, 4-5:15 PM room E-202
 
-#### CPSC 474.001: Parallel and Distributed Computing (Graduate/Undergraduate)
-Monday-Wednesday 8.30-9.45 AM room CS-101
+#### CPSC 474.01: Parallel and Distributed Computing (Graduate/Undergraduate)
+Monday-Wednesday 8:30-9:45 AM room CS-101
 
 ***
 
@@ -157,46 +194,46 @@ Online
 ## Spring 2017
 
 #### CPSC 335.02: Algorithms Engineering (Graduate/Undergraduate)
-Tuesday-Thursday 7.00-8.15 PM room CS-110B
+Tuesday-Thursday 7:00-8:15 PM room CS-110B
 
 #### CPSC 335.03: Algorithms Engineering (Graduate/Undergraduate)
-Tuesday-Thursday 4.00-5.15 PM room CS-110B
+Tuesday-Thursday 4:00-5:15 PM room CS-110B
 
 ***
 
 ## Fall 2016
 
 #### CPSC 335.01: Algorithms Engineering (Graduate/Undergraduate)
-Monday-Wednesday 2.30-3.45 PM room EC-109
+Monday-Wednesday 2:30-3:45 PM room EC-109
 
 #### CPSC 335.02: Algorithms Engineering (Graduate/Undergraduate)
-Monday-Wednesday 4.00-5.15 PM room EC-109
+Monday-Wednesday 4:00-5:15 PM room EC-109
 
 #### CPSC 474.01: Parallel and Distributed Computing (Graduate/Undergraduate)
-Monday-Wednesday 10.00-11.15 AM room CS-101
+Monday-Wednesday 10:00-11:15 AM room CS-101
 
 ***
 
 ## Spring 2016
 
 #### CPSC 335.01: Algorithms Engineering (Graduate/Undergraduate)
-Monday-Wednesday 1.00-2.15 PM room E-202
+Monday-Wednesday 1:00-2:15 PM room E-202
 
 #### CPSC 335.02: Algorithms Engineering (Graduate/Undergraduate)
-Tuesday-Thursday 7.00-8.15 PM room CS-110B
+Tuesday-Thursday 7:00-8:15 PM room CS-110B
 
 #### CPSC 335.03: Algorithms Engineering (Graduate/Undergraduate)
-Tuesday-Thursday 4.00-5.15 PM room CS-110B
+Tuesday-Thursday 4:00-5:15 PM room CS-110B
 
 ***
 
 ## Fall 2015
 
 #### CPSC 335.01: Algorithms Engineering (Graduate/Undergraduate)
-Tuesday-Thursday 4.00-5.15 PM room CS-300
+Tuesday-Thursday 4:00-5:15 PM room CS-300
 
 #### CPSC 335.02: Algorithms Engineering (Graduate/Undergraduate)
-Monday-Wednesday 4.00-5.15 PM room CS-110A
+Monday-Wednesday 4:00-5:15 PM room CS-110A
 
 #### CPSC 335.03: Algorithms Engineering (Graduate/Undergraduate)
-Monday-Wednesday 2.30-3.45 PM room CS-102A
+Monday-Wednesday 2:30-3:45 PM room CS-102A
