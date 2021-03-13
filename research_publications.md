@@ -39,8 +39,10 @@ Dr. Bein's research interests include:
 
 ## Publications
 
-#### Best Paper Award
+#### Best Paper/Presentation Award
 
+* IEEE CCWC 2021, Best presenter award, "Predictive Analytics of Donors in Crowdfunding Platforms: A Case Study on Donorschoose.org", co-authored with J.V. Dirisam and A. Verma
+* IEEE CCWC 2021, Best presenter award, "Drug Safety Intelligence and Automation", co-authored with V. Maniyar, M.S. Nistor, and S. Pickl 
 * IEEE 10th Annual Computing and Communication Workshop and conference (IEEE CCWC 2019), Best Presenter Award, co-authored with N. Rale, R. Solanki, J. Andro-Vasko, W. Bein
 * 9th IEEE Annual Ubiquitous Computing (UEMCON 2018), Best Paper Award, co-authored with P. Ly and A. Verma
 * 7th IEEE Annual Computing and Communication Workshop and Conference (IEEE CCWC 2017), Best Paper Award, Distributed System track, co-authored with N. Nguyen
@@ -80,7 +82,7 @@ Dr. Bein's research interests include:
 ***
 
 #### Journal Publications
-20. J. Eapen, A. Verma, and D. Bein, “Improved big data stock index prediction using deep learning with CNN and GRU”, accepted September 18, 2020,  International Journal of Big Data Intelligence
+20. J. Eapen, A. Verma, and D. Bein, “Improved big data stock index prediction using deep learning with CNN and GRU”, International Journal of Big Data Intelligence (2020) 7(4):202-210
 19. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, online as of February 23, 2016
 http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 18. Y. Wen, D. Bein, S. Phoha, "Dynamic Clustering of Multi-modal Sensor Networks in Urban Scenarios", Information Fusion (2014) 15:130-140
@@ -184,6 +186,10 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 ***  
 
 #### Grants
+
+(CSUF) PI for the grant “Women in Computer Science Inclusive Excellence - CSUF Pathways, Pipeline, Practice (P-Cubed)” (March 2021-March 2023), Northeastern University, amount $650,000; co-PI Ms. Beth Harnick-Shapiro
+
+(CSUF) PI for the grant “Management of Mass Casualty via an Artificial Intelligence Based System” (April 2021-March 2023), NATO, amount 299,800 Euro; a five-country collaboration with universities or research institutions in Croatia, Germany, Moldova, and Romania
 
 (CSUF) PI for Graduation Initiative 2025 CSUF internal grant “Interactive Teaching Using Flipped Classroom and Collaborative Assessment”, amount $9500; co-PI Sandra Boulanger
 
