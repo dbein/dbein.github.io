@@ -107,18 +107,19 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 ***
 
 #### Refereed Conference/Workshop Papers
-74. R.R. Shetty, D. Bein, M.S. Nistor, and S. Pickl, "Semiotic Recognition System", accepted at IEEE CCWC 2021
-73. V. Maniyar, D. Bein, M.S. Nistor, and S. Pickl, "Drug Safety Intelligence and Automation", IEEE CCWC 2021, accepted at IEEE CCWC 2021
-72. J.V. Dirisam, D. Bein and A. Verma,  "Predictive Analytics of Donors in Crowdfunding Platforms: A Case Study on Donorschoose.org", accepted at IEEE CCWC 2021
-71. X. Suo, O. Glebova, D. Liu, A. Lazar, and D. Bein, "A Survey of Teaching PDC Content in Undergraduate Curriculum", accepted at IEEE CCWC 2021
-70. A. Ramesh, S.P. Nagisetti, N. Sridhar, K. Avery, and D. Bein,  "Station-Level Demand Prediction for Bike-Sharing System", accepted at IEEE CCWC 2021 
-69. R. Jhangiani, A. Verma, D. Bein, “Machine Learning Pipeline for Fraud Detection and Prevention in E-Commerce Transactions”, IEEE UEMCON 2019
-68. N. Rale, R. Solanki, D. Bein, J. Andro-Vasko, W. Bein, “Prediction of Crop Cultivation”, 2019 IEEE CCWC, Best presenter award
-67. S. Solanki, R. H. Ravilla, D. Bein, “Study of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout”, 2019 IEEE CCWC
-66. A. Jeerige, D. Bein, and A. Verma, “Comparison of Deep Reinforcement Learning Approaches for Intelligent Game Playing”, 2019 IEEE CCWC
-65. J. Eapen, D. Bein, and A. Verma, “Novel Deep Learning Model with CNN and Bi-Directional LSTM for Improved Stock Market Index Prediction”, 2019 IEEE CCWC
-64. T. Abrahams and D. Bein, “Analyzing Beauty by Building Custom Profiles Using Machine Learning”, 2019 IEEE CCWC
-63. P. Ly, D. Bein, and A. Verma, “New Compact Deep Learning Model for Skin Cancer Recognition', IEEE UEMCON 2018, Best paper award
+75. D. Bein, J. Huang, Y. Bai, S. T. Kurwadkar, and P. Reina, "Lessons Learned From the First-Year Enrichment Program for Engineering and Computer Science Students in the ASSURE-US Program", available online at https://peer.asee.org/lessons-learned-from-the-first-year-enrichment-program-for-engineering-and-computer-science-students-in-the-assure-us-program
+74. R.R. Shetty, D. Bein, M.S. Nistor, and S. Pickl, "Semiotic Recognition System", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0873-0877, doi: 10.1109/CCWC51732.2021.9376064.
+73. V. Maniyar, D. Bein, M.S. Nistor, and S. Pickl, "Drug Safety Intelligence and Automation", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0585-0590, doi: 10.1109/CCWC51732.2021.9376004.
+72. J.V. Dirisam, D. Bein and A. Verma,  "Predictive Analytics of Donors in Crowdfunding Platforms: A Case Study on Donorschoose.org", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0834-0838, doi: 10.1109/CCWC51732.2021.9376094.
+71. X. Suo, O. Glebova, D. Liu, A. Lazar, and D. Bein, "A Survey of Teaching PDC Content in Undergraduate Curriculum", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 1306-1312, doi: 10.1109/CCWC51732.2021.9376037.
+70. A. Ramesh, S.P. Nagisetti, N. Sridhar, K. Avery, and D. Bein,  "Station-Level Demand Prediction for Bike-Sharing System", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0916-0921, doi: 10.1109/CCWC51732.2021.9375958.
+69. R. Jhangiani, A. Verma, D. Bein, “Machine Learning Pipeline for Fraud Detection and Prevention in E-Commerce Transactions”, 2019 IEEE 10th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), 2019, pp. 0135-0140, doi: 10.1109/UEMCON47517.2019.8992993.
+68. N. Rale, R. Solanki, D. Bein, J. Andro-Vasko, W. Bein, “Prediction of Crop Cultivation”, 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019, pp. 0227-0232, doi: 10.1109/CCWC.2019.8666445, Best presenter award
+67. S. Solanki, R. H. Ravilla, D. Bein, “Study of Distributed Framework Hadoop and Overview of Machine Learning using Apache Mahout”, 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019, pp. 0252-0257, doi: 10.1109/CCWC.2019.8666529.
+66. A. Jeerige, D. Bein, and A. Verma, “Comparison of Deep Reinforcement Learning Approaches for Intelligent Game Playing”, 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019, pp. 0366-0371, doi: 10.1109/CCWC.2019.8666545.
+65. J. Eapen, D. Bein, and A. Verma, “Novel Deep Learning Model with CNN and Bi-Directional LSTM for Improved Stock Market Index Prediction”, 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019, pp. 0264-0270, doi: 10.1109/CCWC.2019.8666592.
+64. T. Abrahams and D. Bein, “Analyzing Beauty by Building Custom Profiles Using Machine Learning”, 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019, pp. 0372-0376, doi: 10.1109/CCWC.2019.8666528.
+63. P. Ly, D. Bein, and A. Verma, “New Compact Deep Learning Model for Skin Cancer Recognition', 2018 9th IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), 2018, pp. 255-261, doi: 10.1109/UEMCON.2018.8796628, Best paper award
 62. Stefan Pickl, Sorin Nistor, Constantin Gaindric, Svetlana Cojocaru, Iulian Secrieru, Olga Popcova, Doina Bein, Diana Cimpoesu, "Concept of Decision Support Framework for Management of Mass Casualty Situations at Collections Points", 2018 MFOI
 61. N. Ang, D. Bein, D. Dao, L. Sanchez, J. Tran, and N. Vurdien, “Emotional Prosody Analysis on Human Voices”, 2018 IEEE CCWC
 60. J. Ligon, D. Bein, P. Ly, B. Onesto, “3D Point Cloud Processing Using Spin Images for Object Detection”, 2018 IEEE CCWC
