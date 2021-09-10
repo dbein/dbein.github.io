@@ -2,6 +2,8 @@
 layout: post
 title: Teaching
 navigation_headers:
+  - Fall 2021
+  - Summer 2021
   - Spring 2021
   - Fall 2020
   - Summer 2020
@@ -21,22 +23,21 @@ navigation_headers:
 
 ***
 
-## Spring 2021
+## Fall 2021
 
-#### CPSC 479.01: Introduction to High Performance Computing (Graduate/Undergraduate)
-Monday-Wednesday 11:30 AM - 12:45 PM zoom |
-[__Syllabus__](https://drive.google.com/open?id=1ZfeQIYsfyJnN1QbhyYlfkqZJTeXAafSvHmsEOU0i13E) |
-<a href="{{ site.baseurl }}/calendar/479-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
+#### CPSC 120.01 & 120.03: Introduction to Programming, co-teaching with Prof. Hong Wei Tai
+Monday 10 AM - 11:15 AM zoom |
+[__Syllabus__](https://docs.google.com/document/d/1Q_fsdX_L77PhHpgnSW5JzecXocZcCZBtjOh69WG3xW4/edit?usp=sharing) 
 
-#### CPSC 535.01: Advanced Algorithms
+#### CPSC 335.01: Algorithm Engineering
+Monday-Wednesday 2:30 PM - 3:45 PM zoom |
+[__Syllabus__](https://docs.google.com/document/d/1SZMen4FT0BIY4u0iSVzMf69a2TIdPYoCXVBoMBibJfQ/edit?usp=sharing) |
+<a href="{{ site.baseurl }}/calendar/335-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
+
+#### CPSC 474.01: Parallel and Distributed Computing (Graduate/Undergraduate)
 Monday-Wednesday 8:30 AM - 9:45 AM zoom |
-[__Syllabus__](https://docs.google.com/document/d/1OSnpcN3j445vndBvSfTU2nxT98wxDC2JNC79Fop0Yic/edit?usp=sharing) |
-<a href="{{ site.baseurl }}/calendar/535-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
-
-#### CPSC 597.01: Project (Seminar)
-Tuesday-Thursday 1 PM - 2:15 PM zoom |
-[__Syllabus__](https://docs.google.com/document/d/1JhZb7Otlwqtd7gTyOdGlxksb-zKanm5-Js3Kn6cM2Nc/edit?usp=sharing) |
-<a href="{{ site.baseurl }}/calendar/597-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
+[__Syllabus__](https://docs.google.com/document/d/15YWxfY4ads4vB_7oKEbx39OApbtwGo6WDP1rW9_uqvM/edit?usp=sharing) |
+<a href="{{ site.baseurl }}/calendar/474-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
 ***
 
@@ -52,6 +53,25 @@ To send an anonymous feedback, please use the form below.
 !--->
 
 ***
+
+## Summer 2021
+
+#### CPSC 335.02: Algorithms Engineering
+Monday, Wednesday, Thursday 10:30 AM - 1:30 PM zoom 
+
+#### CPSC 335.03: Algorithms Engineering
+Monday, Wednesday, Thursday 1:35 PM - 4:35 PM zoom 
+
+## Spring 2021
+
+#### CPSC 479.01: Introduction to High Performance Computing (Graduate/Undergraduate)
+Monday-Wednesday 11:30 AM - 12:45 PM zoom 
+
+#### CPSC 535.01: Advanced Algorithms
+Monday-Wednesday 8:30 AM - 9:45 AM zoom 
+
+#### CPSC 597.01: Project (Seminar)
+Tuesday-Thursday 1 PM - 2:15 PM zoom 
 
 ## Fall 2020
 

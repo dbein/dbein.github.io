@@ -51,23 +51,24 @@ Dr. Bein's research interests include:
 #### Best Poster Award
 * SCAR 2017, Best poster award for the Titan Rover Control Team (five undergraduate students), as faculty mentor
 
-#### Best Graduate Student Award in ECS
-* SCAR 2018, Best graduate student award bestowed upon  Phillip Ly, for The College of Engineering and Compyter Science, as faculty mentor and advisor
+#### Best Graduate Student Awards in ECS
+* OSA 2020, Outstanding Student Scholarly and Creative Activities Award, Graduate, Master, Chary Vielma, as faculty mentor and advisor
+* SCAR 2018, Best graduate student award bestowed upon Phillip Ly, for The College of Engineering and Computer Science, as faculty mentor and advisor
 
 
 ***
 
 #### Book Chapters
-19. P. Joshi and D. Bein, “Audible Code, a Voice-Enabled Programming Extension of Visual Studio Code”, accepted at ITNG 2020
-18. S. Anand, D. Bein, J. Andro-Vasko, and W. Bein, “SpeakOut, a Web App for Online Therapy and Web Counseling”, accepted at ITNG 2020
-17. J. Estabillo, D. Lee, C. Ly, G. Orozco, D. Bein, S. Kurwadkar, J. Huang, and Y. Bai , “Using Projects on Clustering and Linear Regression to Develop Basic Research Skills in Freshmen and Sophomore Undergraduate Students”, accepted at ITNG 2020
-16. A. Ahmed, L. Macias, M. McCune, M. Medina, G. Orozco, D. Bein, S. Kurwadkar, J. Huang, O. Daescu, D. Xu, and Y. Bai, “Initiating Research Skills in Undergraduate Students through Data Science Projects”, accepted at ITNG 2020
-15.  D. Tu, D. Bein, and M. Gofman, “Designing a Unity Game Using the Haptic Feedback Gloves, VMG 30 Plus”, accepted at ITNG 2020
-14. C. Vielma, A. Verma, and D. Bein, “Single and Multibranch CNN-Bidirectional LSTM for IMDb Sentiment Analysis”, accepted at ITNG 2020
-13. P. K. Bhullar, C. Vielma, D. Bein, and V. Popa, “MeasureOP - Sentiment Analysis of Movies Text Data”, Proceedings of ITNG 2019
-12. R. Obidah and D. Bein, “Game based learning using Unreal Engine”, Proceedings of ITNG 2019
+19. P. Joshi and D. Bein, “Audible Code, a Voice-Enabled Programming Extension of Visual Studio Code”, In: Latifi S. (eds) 17th International Conference on Information Technology–New Generations (ITNG 2020). Advances in Intelligent Systems and Computing, vol 1134. Springer, Cham. https://doi.org/10.1007/978-3-030-43020-7_44
+18. S. Anand, D. Bein, J. Andro-Vasko, and W. Bein, “SpeakOut, a Web App for Online Therapy and Web Counseling”, In: Latifi S. (eds) 17th International Conference on Information Technology–New Generations (ITNG 2020). Advances in Intelligent Systems and Computing, vol 1134. Springer, Cham. https://doi.org/10.1007/978-3-030-43020-7_49
+17. J. Estabillo, D. Lee, C. Ly, G. Orozco, D. Bein, S. Kurwadkar, J. Huang, and Y. Bai , “Using Projects on Clustering and Linear Regression to Develop Basic Research Skills in Freshmen and Sophomore Undergraduate Students”, In: Latifi S. (eds) 17th International Conference on Information Technology–New Generations (ITNG 2020). Advances in Intelligent Systems and Computing, vol 1134. Springer, Cham. https://doi.org/10.1007/978-3-030-43020-7_50
+16. A. Ahmed, L. Macias, M. McCune, M. Medina, G. Orozco, D. Bein, S. Kurwadkar, J. Huang, O. Daescu, D. Xu, and Y. Bai, “Initiating Research Skills in Undergraduate Students through Data Science Projects”, In: Latifi S. (eds) 17th International Conference on Information Technology–New Generations (ITNG 2020). Advances in Intelligent Systems and Computing, vol 1134. Springer, Cham. https://doi.org/10.1007/978-3-030-43020-7_51
+15.  D. Tu, D. Bein, and M. Gofman, “Designing a Unity Game Using the Haptic Feedback Gloves, VMG 30 Plus”, In: Latifi S. (eds) 17th International Conference on Information Technology–New Generations (ITNG 2020). Advances in Intelligent Systems and Computing, vol 1134. Springer, Cham. https://doi.org/10.1007/978-3-030-43020-7_52
+14. C. Vielma, A. Verma, and D. Bein, “Single and Multibranch CNN-Bidirectional LSTM for IMDb Sentiment Analysis”, In: Latifi S. (eds) 17th International Conference on Information Technology–New Generations (ITNG 2020). Advances in Intelligent Systems and Computing, vol 1134. Springer, Cham. https://doi.org/10.1007/978-3-030-43020-7_53
+13. P. K. Bhullar, C. Vielma, D. Bein, and V. Popa, “MeasureOP - Sentiment Analysis of Movies Text Data”, In: Latifi S. (eds) 16th International Conference on Information Technology-New Generations (ITNG 2019). Advances in Intelligent Systems and Computing, vol 800. Springer, Cham. https://doi.org/10.1007/978-3-030-14070-0_78
+12. R. Obidah and D. Bein, “Game based learning using Unreal Engine”, . In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing. Advances in Intelligent Systems and Computing, Springer International Publishing, Cham, vol. 800, pages 513-519
 11. J. M. Narra, D. Bein, and V. Popa, Business Intelligence Dashboard Application for Insurance Cross Selling, In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 738, pages 427-432
-10. N. R. Prabhu, J. Andro-Vasko, D. Bein and W. Bein, Music Genre Classification using Data Mining and Machine Learning, . In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 738, pages 397-403 
+10. N. R. Prabhu, J. Andro-Vasko, D. Bein and W. Bein, Music Genre Classification using Data Mining and Machine Learning. In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 738, pages 397-403 
 9. N. Nguyen, D. Bein (2018) Evaluating Assignments Using Grading App. In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 558, DOI: 10.1007/978-3-319-54978-1_108, pages 871-875.
 8. R. Cheruku, D. Bein, W. Bein, V. Popa (2018) Recruitment Drive Application. In: S. Latifi (Editor) Information Technology - New Generations. Advances in Intelligent Systems and Computing, vol. 558, DOI: 10.1007/978-3-319-54978-1_108, pages 865-870.
 7. Nistor M.S., Bein D., Teodorescu H.N., Pickl S.W. (2018) Finding the Maximal Day-Time Dependent Component of a Subway System. In: Cassenti D. (eds) Advances in Human Factors in Simulation and Modeling. AHFE 2017. Advances in Intelligent Systems and Computing, vol 591. Springer, Cham, pages 562–572
@@ -83,8 +84,7 @@ Dr. Bein's research interests include:
 
 #### Journal Publications
 20. J. Eapen, A. Verma, and D. Bein, “Improved big data stock index prediction using deep learning with CNN and GRU”, International Journal of Big Data Intelligence (2020) 7(4):202-210
-19. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, online as of February 23, 2016
-http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
+19. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, available online as of February 23, 2016 at https://journals.sagepub.com/doi/pdf/10.1177/1548512916628335
 18. Y. Wen, D. Bein, S. Phoha, "Dynamic Clustering of Multi-modal Sensor Networks in Urban Scenarios", Information Fusion (2014) 15:130-140
 17. S. Phoha, G. Mallapragada, Y. Wen, D. Bein, and A. Ray, "Designing a Fusion-Driven Sensor Network to Selectively Track Mobile Targets," Parallel Processing Letters (2012) 22(1), 15 pages
 16. D. Bein, H. Kakugawa, and T. Masuzawa, "Self-stabilising protocols on oriented chains with joins and leaves", International Journal of Autonomous and Adaptive Communications Systems (IJAACS) (2012) 5(2):178-199
@@ -109,8 +109,8 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 #### Refereed Conference/Workshop Papers
 75. D. Bein, J. Huang, Y. Bai, S. T. Kurwadkar, and P. Reina, "Lessons Learned From the First-Year Enrichment Program for Engineering and Computer Science Students in the ASSURE-US Program", available online at https://peer.asee.org/lessons-learned-from-the-first-year-enrichment-program-for-engineering-and-computer-science-students-in-the-assure-us-program
 74. R.R. Shetty, D. Bein, M.S. Nistor, and S. Pickl, "Semiotic Recognition System", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0873-0877, doi: 10.1109/CCWC51732.2021.9376064.
-73. V. Maniyar, D. Bein, M.S. Nistor, and S. Pickl, "Drug Safety Intelligence and Automation", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0585-0590, doi: 10.1109/CCWC51732.2021.9376004.
-72. J.V. Dirisam, D. Bein and A. Verma,  "Predictive Analytics of Donors in Crowdfunding Platforms: A Case Study on Donorschoose.org", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0834-0838, doi: 10.1109/CCWC51732.2021.9376094.
+73. V. Maniyar, D. Bein, M.S. Nistor, and S. Pickl, "Drug Safety Intelligence and Automation", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0585-0590, doi: 10.1109/CCWC51732.2021.9376004, Best presenter award
+72. J.V. Dirisam, D. Bein and A. Verma,  "Predictive Analytics of Donors in Crowdfunding Platforms: A Case Study on Donorschoose.org", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0834-0838, doi: 10.1109/CCWC51732.2021.9376094, Best presenter award
 71. X. Suo, O. Glebova, D. Liu, A. Lazar, and D. Bein, "A Survey of Teaching PDC Content in Undergraduate Curriculum", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 1306-1312, doi: 10.1109/CCWC51732.2021.9376037.
 70. A. Ramesh, S.P. Nagisetti, N. Sridhar, K. Avery, and D. Bein,  "Station-Level Demand Prediction for Bike-Sharing System", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0916-0921, doi: 10.1109/CCWC51732.2021.9375958.
 69. R. Jhangiani, A. Verma, D. Bein, “Machine Learning Pipeline for Fraud Detection and Prevention in E-Commerce Transactions”, 2019 IEEE 10th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), 2019, pp. 0135-0140, doi: 10.1109/UEMCON47517.2019.8992993.
@@ -190,7 +190,7 @@ http://m.dms.sagepub.com/content/early/2016/02/19/1548512916628335?papetoc
 
 (CSUF) PI for the grant “Women in Computer Science Inclusive Excellence - CSUF Pathways, Pipeline, Practice (P-Cubed)” (March 2021-March 2023), Northeastern University, amount $650,000; co-PI Ms. Beth Harnick-Shapiro
 
-(CSUF) PI for the grant “Management of Mass Casualty via an Artificial Intelligence Based System” (April 2021-March 2023), NATO, amount 299,800 Euro; a five-country collaboration with universities or research institutions in Croatia, Germany, Moldova, and Romania
+(CSUF) One of the five leading PIs for the grant “Management of Mass Casualty via an Artificial Intelligence Based System” (April 2021-March 2023), NATO, amount 299,800 Euro; a five-country collaboration with universities or research institutions in Croatia, Germany, Moldova, and Romania
 
 (CSUF) PI for Graduation Initiative 2025 CSUF internal grant “Interactive Teaching Using Flipped Classroom and Collaborative Assessment”, amount $9500; co-PI Sandra Boulanger
 
