@@ -7,9 +7,9 @@ title: Service
 
 #### Associate/Academic Editor
 
-*  [__Academic Editor__](http://www.sciencedomain.org/journal/6/editorial-board-members), Journal Of Advances in Mathematics and Computer Science (former name: British Journal of Mathematics and Computer Science) (December 2012 - present)
-* [__Guest editor--](https://www.mdpi.com/journal/information/special_issues/ITNG_2020_2021) with Dr. Shahram Latifi of special issues of Information journal, on selected papers accepted at ITNG conferences (2016-present)
-* [__Associate Editor--](https://www.macrothink.org/journal/index.php/npa/about/editorialTeam), International Journal of Network Protocols and Algorithms - Power Efficient and Energy Saving Network Protocols and Algorithms area (May 2009 - present)
+* [__Academic Editor__](http://www.sciencedomain.org/journal/6/editorial-board-members), Journal Of Advances in Mathematics and Computer Science (former name: British Journal of Mathematics and Computer Science) (December 2012 - present)
+* [__Guest editor__](https://www.mdpi.com/journal/information/special_issues/ITNG_2020_2021) with Dr. Shahram Latifi of special issues of Information journal, on selected papers accepted at ITNG conferences (2016-present)
+* [__Associate Editor__](https://www.macrothink.org/journal/index.php/npa/about/editorialTeam), International Journal of Network Protocols and Algorithms - Power Efficient and Energy Saving Network Protocols and Algorithms area (May 2009 - present)
 * [__Associate Editor__](https://bioinfopublication.org/pages/journal.php?id=BPJ0000231&pg=editorial), International Journal of Machine Intelligence (October 2010 - present)
 * Co-editor with David Camacho, Costin Badica, and Martijn Warnier of a Special Issue of the International Journal of Bio-Inspired Computation on Knowledge and Intelligence in Distributed Systems (2012)
 
