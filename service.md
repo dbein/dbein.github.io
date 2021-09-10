@@ -14,6 +14,7 @@ title: Service
 * Co-editor with David Camacho, Costin Badica, and Martijn Warnier of a Special Issue of the International Journal of Bio-Inspired Computation on Knowledge and Intelligence in Distributed Systems (2012)
 
 #### General co-chair
+
 * [__ITNG 2022__](http://www.itng.info/): 19th International Conference on Information Technology: New Generations, to be held April 10-13, 2022, Las Vegas, Nevada, USA
 * ITNG 2021, 2020, ITNG 2019, ITNG 2018, held in April yearly, Las Vegas, Nevada, USA
 
@@ -21,7 +22,7 @@ title: Service
 
 * [__ICDCN 2018__](http://iitbhu.ac.in/ICDCN2018/call.html): 19th International Conference on Distributed Computing and Networking, and associated workshops, held January 4-7, 2018, Varanasi, India. 
 
-#### Publicity Chair/co-Chair
+#### Publicity Chair/Co-Chair
 
 * 23rd International Symposium on Stabilization, Safety, and Security of Distributed Systems, virtual, Sweden, November 17-20, 2021, 
 [__Publicity co-chair of SSS 2021__](http://www.cse.chalmers.se/~elad/SSS2021/Organization.html) 
@@ -34,19 +35,24 @@ title: Service
 * [__CCWC 2021__](https://ieee-ccwc.org/): 11th Annual Computing and Communication Workshop and Conference, 27th-30th January, 2021, Las Vegas, USA
 * 52 more conferences and workshops between 2007-2021
 
-#### Conference/Journal/Workshop Peer Reviewer
+#### Conference/Journal/NSF/Workshop Peer Reviewer
 
 * 18th International Conference on Information Technology: New Generations (ITNG 2021)
 * IJDSN: International Journal of Distributed Sensor Networks (2011-2016)
 * 48 more journals, conferences and workshops
+* NSF panelist
 
 
 ## Service to University
 
 * [__ECS Faculty liaison__] (http://www.fullerton.edu/data/assessment/committees/) in the CSUF Academic Senate Assessment and Educational Effectiveness Committee (2019-present)
 * [__MSTI faculty liaison__] (http://ed.fullerton.edu/msti/about-us/) for Computer Science Department (2019-present)
+* Vice-chair in the Computer Science Department (Fall 2021-present)
 * CS representative in the ECS at-large committee (2019-present)
 * Faculty Mentor of Professional Societies: ACM-W, CSUF chapter
 * Member of the Computer Science Assessment committee (2015-present); Chair of the CS Assessment Committee (2017-2018)
 * Member of Computer Science Instructional Resources Committee (2016-2021)
 * Member of the Computer Science Executive Committee (2017-present)
+* Member of the Computer Science Departmental Personnel Committee (2020-2021)
+* Member of the Computer Science Selection Committee (2019-2020, 2021-2022)
+* Graduate Advisor for the Computer Science Department (Fall 2019) and Chair of the Graduate Committee (Fall 2019)
