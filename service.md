@@ -7,11 +7,11 @@ title: Service
 
 #### Associate/Academic Editor
 
-* Journal Of Advances in Mathematics and Computer Science (former name: British Journal of Mathematics and Computer Science) (December 2012 - present), [__Academic Editor__](http://www.sciencedomain.org/journal/6/editorial-board-members)
+*  [__Academic Editor__](http://www.sciencedomain.org/journal/6/editorial-board-members), Journal Of Advances in Mathematics and Computer Science (former name: British Journal of Mathematics and Computer Science) (December 2012 - present)
 * Guest co-editor (with Dr. Shahram Latifi) of special issues of Information journal, on selected papers accepted at ITNG conferences (2016-present)
-* International Journal of Network Protocols and Algorithms - Power Efficient and Energy Saving Network Protocols and Algorithms area (May 2009 - present), Associate Editor
-* International Journal of Machine Intelligence (October 2010 - present), Associate Editor
-* Special Issue of the International Journal of Bio-Inspired Computation on Knowledge and Intelligence in Distributed Systems (2012) Co-editor with David Camacho, Costin Badica, and Martijn Warnier
+* Associate Editor, International Journal of Network Protocols and Algorithms - Power Efficient and Energy Saving Network Protocols and Algorithms area (May 2009 - present)
+* Associate Editor, International Journal of Machine Intelligence (October 2010 - present)
+* Co-editor with David Camacho, Costin Badica, and Martijn Warnier of a Special Issue of the International Journal of Bio-Inspired Computation on Knowledge and Intelligence in Distributed Systems (2012)
 
 #### General co-chair
 * [__ITNG 2022__](http://www.itng.info/): 19th International Conference on Information Technology: New Generations, to be held April 10-13, 2022, Las Vegas, Nevada, USA
