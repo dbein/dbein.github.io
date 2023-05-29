@@ -15,8 +15,8 @@ title: Service
 
 #### General co-chair
 
-* [__ITNG 2022__](http://www.itng.info/): 19th International Conference on Information Technology: New Generations, to be held April 10-13, 2022, Las Vegas, Nevada, USA
-* ITNG 2021, 2020, ITNG 2019, ITNG 2018, held in April yearly, Las Vegas, Nevada, USA
+* [__ITNG 2024__](http://www.itng.info/): 19th International Conference on Information Technology: New Generations, to be held April 15-17, 2024, Las Vegas, Nevada, USA
+* ITNG 2023, ITNG 2022, ITNG 2021, 2020, ITNG 2019, ITNG 2018, held in April yearly, Las Vegas, Nevada, USA
 
 #### Publication chair
 

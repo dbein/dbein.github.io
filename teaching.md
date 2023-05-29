@@ -2,6 +2,12 @@
 layout: post
 title: Teaching
 navigation_headers:
+  - Fall 2023
+  - Summer 2023
+  - Spring 2023
+  - Fall 2022
+  - Summer 2022
+  - Spring 2022
   - Fall 2021
   - Summer 2021
   - Spring 2021
@@ -23,20 +29,15 @@ navigation_headers:
 
 ***
 
-## Fall 2021
+## Summer 2023
 
-#### CPSC 120.01 & 120.03: Introduction to Programming, co-teaching with Prof. Hong Wei Tai
-Monday 10 AM - 11:15 AM zoom |
-[__Syllabus__](https://docs.google.com/document/d/1Q_fsdX_L77PhHpgnSW5JzecXocZcCZBtjOh69WG3xW4/edit?usp=sharing) 
-
-#### CPSC 335.01: Algorithm Engineering
-Monday-Wednesday 2:30 PM - 3:45 PM zoom |
-[__Syllabus__](https://docs.google.com/document/d/1SZMen4FT0BIY4u0iSVzMf69a2TIdPYoCXVBoMBibJfQ/edit?usp=sharing) |
+#### CPSC 335.01: Algorithms Engineering
+Monday, Wednesday, Thursday 10:30 AM - 1:30 PM CS-104 [__Syllabus__](https://docs.google.com/document/d/1axgKvotUV2JTycSHxN8pWzWn1w_7_spmaR1uOXOxjRg/edit?usp=share_link) |
 <a href="{{ site.baseurl }}/calendar/335-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
-#### CPSC 474.01: Parallel and Distributed Computing (Graduate/Undergraduate)
-Monday-Wednesday 8:30 AM - 9:45 AM zoom |
-[__Syllabus__](https://docs.google.com/document/d/15YWxfY4ads4vB_7oKEbx39OApbtwGo6WDP1rW9_uqvM/edit?usp=sharing) |
+#### CPSC 323.01: Compilers and Languages
+Monday-Wednesday-Thursday 1:35 PM - 4:35 PM room CS-104 |
+[__Syllabus__](https://docs.google.com/document/d/1SHBPgvUDVRR1j1xyg07mgGbmuQOjn3tVYQPj99Qp2co/edit?usp=share_link) |
 <a href="{{ site.baseurl }}/calendar/474-01" target="_blank" class="icon fa-calendar" style="font-size:1.5em;"><span class="label">Calendar</span></a>
 
 ***
@@ -53,6 +54,66 @@ To send an anonymous feedback, please use the form below.
 !--->
 
 ***
+## Spring 2023
+
+#### CPSC 121.01: Object Oriented Progrmming
+Tuesday-Thursday 8:30 AM - 9:20 AM  E-202
+
+#### CPSC 121.02: Object Oriented Progrmming
+Tuesday-Thursday 9:30 AM - 10:20 AM  E-202
+
+#### CPSC 121.03: Object Oriented Progrmming
+Tuesday-Thursday 10:30 AM - 11:20 AM  E-202
+
+#### CPSC 121.04: Object Oriented Progrmming
+Tuesday-Thursday 11:30 AM - 12:20 PM  E-202
+
+
+## Fall 2022
+
+#### CPSC 120.04: Introduction to Programming
+Monday 11:30 AM - 12:20 PM  E-202
+
+#### CPSC 474.01: Parallel and Distributed Computing (Graduate/Undergraduate)
+Monday-Wednesday 10 AM - 11:15 AM zoom |
+
+#### CPSC 535.01: Advanced Algorithms
+Monday-Wednesday 8:30 AM - 9:45 AM LH-318 
+
+#### CPSC 535.02: Advanced Algorithms
+Monday-Wednesday 1:00 PM - 2:15 PM HUM-110 
+
+
+## Summer 2022
+
+#### CPSC 335.01: Algorithms Engineering
+Monday, Wednesday, Thursday 10:30 AM - 1:30 PM E-202
+
+#### CPSC 323.01: Compilers and Languages
+Monday-Wednesday-Thursday 1:35 PM - 4:35 PM room E-202
+
+
+## Spring 2022
+
+#### CPSC 479.01: Introduction to High Performance Computing (Graduate/Undergraduate)
+Monday-Wednesday 11:30 AM - 12:45 PM  CS-408
+
+#### CPSC 535.01: Advanced Algorithms
+Monday-Wednesday 8:30 AM - 9:45 AM E-202 
+
+#### CPSC 597.01: Project (Seminar)
+Tuesday-Thursday 1 PM - 2:15 PM  HUM 321A
+
+## Fall 2021
+
+#### CPSC 120.01 & 120.03: Introduction to Programming, co-teaching with Prof. Hong Wei Tai
+Monday 10 AM - 11:15 AM zoom
+
+#### CPSC 335.01: Algorithm Engineering
+Monday-Wednesday 2:30 PM - 3:45 PM zoom |
+
+#### CPSC 474.01: Parallel and Distributed Computing (Graduate/Undergraduate)
+Monday-Wednesday 8:30 AM - 9:45 AM zoom |
 
 ## Summer 2021
 

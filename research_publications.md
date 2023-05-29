@@ -59,6 +59,14 @@ Dr. Bein's research interests include:
 ***
 
 #### Book Chapters
+27. R Gund, J Andro-Vasko, D Bein, W Bein, “Recommendation System Using MixPMF”, ITNG 2022 19th International Conference on Information Technology-New Generations (pp. 263-268). Cham: Springer International Publishing.
+26. A Verma, F Kocaman, MS Nistor, D Bein, “Machine Learning for Classification of Cancer Dataset for Gene Mutation Based Treatment “, In ITNG 2022 19th International Conference on Information Technology-New Generations (pp. 229-233). Cham: Springer International Publishing.
+25. A Dingare, D Bein, W Bein, A Verma, “Abstractive Text Summarization Using Machine Learning”, In ITNG 2022 19th International Conference on Information Technology-New Generations (pp. 269-276). Cham: Springer International Publishing
+24. J Shetti, S Pickl, D Bein, MS Nistor, “Using Software for Computational Fluid Dynamics and Molecular Dynamics”, ITNG 2022 Shetti, J., Pickl, S., Bein, D., & Nistor, M. S. (2022, May). Using Software for Computational Fluid Dynamics and Molecular Dynamics. In ITNG 2022 19th International Conference on Information Technology-New Generations (pp. 35-38). Cham: Springer International Publishing
+23. A. Thakurdesai, A., Nistor, MS Nistor, D Bein, S Pickl, W Bein, “Single Sign-On (SSO) Fingerprint Authentication Using Blockchain”, ITNG 2022 19th International Conference on Information Technology-New Generations (pp. 195-202). Cham: Springer International Publishing
+22. F Kocaman, S Pickl, D Bein, MS Nistor, “Performance Comparison Between Deep Learning and Machine Learning Models for Gene Mutation-Based Text Classification of Cancer”, ITNG 2022 19th International Conference on Information Technology-New Generations (pp. 237-244). Cham: Springer International Publishing
+21. R Chittari, MS Nistor, D Bein, S Pickl, “Classifying Sincerity Using Machine Learning”, ITNG 2022 19th International Conference on Information Technology-New Generations, pp. 255-262. Cham: Springer International Publishing, 2022
+20. Rahul Chauhan, MS Nistor, D Bein, S Pickl, W Bein, “Stock Backtesting Engine Using Pairs Trading”, ITNG 2022 19th International Conference on Information Technology-New Generations, pp. 245-253. Cham: Springer International Publishing, 2022
 19. P. Joshi and D. Bein, “Audible Code, a Voice-Enabled Programming Extension of Visual Studio Code”, In: Latifi S. (eds) 17th International Conference on Information Technology–New Generations (ITNG 2020). Advances in Intelligent Systems and Computing, vol 1134. Springer, Cham. https://doi.org/10.1007/978-3-030-43020-7_44
 18. S. Anand, D. Bein, J. Andro-Vasko, and W. Bein, “SpeakOut, a Web App for Online Therapy and Web Counseling”, In: Latifi S. (eds) 17th International Conference on Information Technology–New Generations (ITNG 2020). Advances in Intelligent Systems and Computing, vol 1134. Springer, Cham. https://doi.org/10.1007/978-3-030-43020-7_49
 17. J. Estabillo, D. Lee, C. Ly, G. Orozco, D. Bein, S. Kurwadkar, J. Huang, and Y. Bai , “Using Projects on Clustering and Linear Regression to Develop Basic Research Skills in Freshmen and Sophomore Undergraduate Students”, In: Latifi S. (eds) 17th International Conference on Information Technology–New Generations (ITNG 2020). Advances in Intelligent Systems and Computing, vol 1134. Springer, Cham. https://doi.org/10.1007/978-3-030-43020-7_50
@@ -107,6 +115,10 @@ Dr. Bein's research interests include:
 ***
 
 #### Refereed Conference/Workshop Papers
+79. Yu Bai, Doina Bein, Jidong Huang, Sudarshan Kurwadkar, "Hybrid and Virtual Summer Research Experience for First- and Second-Year Computer Science Undergraduate Students", HICE 2023
+78. Prisha Puri, Sudarshan Kurwadkar, and Doina Bein, "Application of Clustering Approach for Risk Assessment of Drinking Water Facilities Worldwide", IAHR 2022
+77. Sudarshan Kurwadkar, Jidong Huang, Doina Bein, and Antoinette Sherrise Linton,
+"Advancing Student Success Through Integrated Socio-Cultural and Academic Intervention Strategies", ASEE 2022 
 76. D. Bein, J. Huang, Y. Bai, S. T. Kurwadkar, and P. Reina, "Lessons Learned From the First-Year Enrichment Program for Engineering and Computer Science Students in the ASSURE-US Program", available online at https://peer.asee.org/lessons-learned-from-the-first-year-enrichment-program-for-engineering-and-computer-science-students-in-the-assure-us-program
 75. R.R. Shetty, D. Bein, M.S. Nistor, and S. Pickl, "Semiotic Recognition System", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0873-0877, doi: 10.1109/CCWC51732.2021.9376064.
 74. V. Maniyar, D. Bein, M.S. Nistor, and S. Pickl, "Drug Safety Intelligence and Automation", 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0585-0590, doi: 10.1109/CCWC51732.2021.9376004, Best presenter award
