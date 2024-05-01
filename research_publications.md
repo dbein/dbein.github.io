@@ -91,6 +91,7 @@ Dr. Bein's research interests include:
 ***
 
 #### Journal Publications
+21. P. Ly, A. Verma, and D. Bein, “Skin Cancer Recognition with Novel Deep Learning Methodology on Mobile Platform”, International Journal of Computational Vision and Robotics, accepted
 20. J. Eapen, A. Verma, and D. Bein, “Improved big data stock index prediction using deep learning with CNN and GRU”, International Journal of Big Data Intelligence (2020) 7(4):202-210
 19. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, available online as of February 23, 2016 at https://journals.sagepub.com/doi/pdf/10.1177/1548512916628335
 18. Y. Wen, D. Bein, S. Phoha, "Dynamic Clustering of Multi-modal Sensor Networks in Urban Scenarios", Information Fusion (2014) 15:130-140
@@ -115,6 +116,14 @@ Dr. Bein's research interests include:
 ***
 
 #### Refereed Conference/Workshop Papers
+87. D Bein, J. Huang, and S. Kurwadkar, “Instilling Software Development Skills to First and Second Year Computer Science Undergraduate Students Through Machine Learning and Data Science Projects”, Proceedings of HICE 2024
+86. D. Bein, J. Huang, and S. Kurwadkar, “Amplifying the Hybrid Research Experience to a Large Number of First and Second Year Computer Science Undergraduate Students”, Proceedings of HICE 2024
+85. D. Bein, J. Huang, and S. Kurwadkar, “Targeted Research Experiences for First and Second-Year Computer Science Undergraduate Students Through Application of Data Structure”, Proceedings of HICE 2024
+84. M. Nguyen, K. Sood, K. Avery, and D. Bein, “Deep Learning-based Super-Resolution on the Cloud: Focus on Face and Text Enhancement”, Proceedings of 2023 ICRCV
+83. J. Wu, D. Bein, J. Huang, and S. Kurwadkar, “ETL and ML Forecasting Modeling Process Automation System”, Proceedings of 2023 AHFE
+82. R. Gudipudi, S. Nguyen, D. Bein, and S. Kurwadkar, “Improving Internet Advertising Using Click – Through Rate Prediction”, Proceedings of 2023 AHFE
+81. C. Vielma, A. Verma, and D. Bein, “Sentiment Analysis with Novel GRU based Deep Learning Networks”, Proceedings of 2023 AIIoT
+80. S. Nguyen and D. Bein, “Data Science Analysis of Malicious Advertisements and Threat Detection Automation for Cybersecurity Progress”, Proceedings of 2023 CCWC
 79. Yu Bai, Doina Bein, Jidong Huang, Sudarshan Kurwadkar, "Hybrid and Virtual Summer Research Experience for First- and Second-Year Computer Science Undergraduate Students", HICE 2023
 78. Prisha Puri, Sudarshan Kurwadkar, and Doina Bein, "Application of Clustering Approach for Risk Assessment of Drinking Water Facilities Worldwide", IAHR 2022
 77. Sudarshan Kurwadkar, Jidong Huang, Doina Bein, and Antoinette Sherrise Linton,
@@ -200,8 +209,11 @@ Dr. Bein's research interests include:
 ***  
 
 #### Grants
+(CSUF) PI for Scott-Jewett grant “Amplify Equitable Learning in Lower-division Computing Courses to Underserved ECS Students (ACCESS)” (September 2023-July 2025), amount $149,800; co-PI Dr. Yu Bai and Dr. Jidong Huang
 
-(CSUF) PI for the grant “Women in Computer Science Inclusive Excellence - CSUF Pathways, Pipeline, Practice (P-Cubed)” (March 2021-March 2023), Northeastern University, amount $650,000; co-PI Ms. Beth Harnick-Shapiro
+(CSUF) PI for the state grant “Paving Educational Pathways for Careers in Computing HS→GW→CSUF” (January 2023 – November 2024), Orange County Department of Education, amount $211,000; co-PI Ms. Beth Harnick-Shapiro and Dr. Atul Teckchandani
+
+(CSUF) PI for the grant “Women in Computer Science Inclusive Excellence - CSUF Pathways, Pipeline, Practice (P-Cubed)” (March 2021-Aug 2024), Northeastern University, amount $650,000; co-PI Ms. Beth Harnick-Shapiro
 
 (CSUF) One of the five leading PIs for the grant “Management of Mass Casualty via an Artificial Intelligence Based System” (April 2021-March 2023), NATO, amount 299,800 Euro; a five-country collaboration with universities or research institutions in Croatia, Germany, Moldova, and Romania
 
