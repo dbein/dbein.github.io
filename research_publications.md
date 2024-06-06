@@ -91,6 +91,7 @@ Dr. Bein's research interests include:
 ***
 
 #### Journal Publications
+22.S. P. Venkatesh and D. Bein, “Artificial Neural Network Based Performance prediction of Exergy and Energy Analysis of Gas Turbine Generator using Cycle-Tempo Software”, Journal of Electrical Systems, Vol 20, no 7s, 2024, DOI: https://doi.org/10.52783/jes.3763, available online at https://journal.esrgroups.org/jes/article/view/3763
 21. P. Ly, A. Verma, and D. Bein, “Skin Cancer Recognition with Novel Deep Learning Methodology on Mobile Platform”, International Journal of Computational Vision and Robotics, accepted
 20. J. Eapen, A. Verma, and D. Bein, “Improved big data stock index prediction using deep learning with CNN and GRU”, International Journal of Big Data Intelligence (2020) 7(4):202-210
 19. B. B. Madan, M. Banik and D. Bein, "Securing Unmanned Autonomous Systems from Cyber Threats", Journal of Defense Modeling and Simulation, available online as of February 23, 2016 at https://journals.sagepub.com/doi/pdf/10.1177/1548512916628335
